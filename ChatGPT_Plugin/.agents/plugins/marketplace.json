@@ -1,0 +1,20 @@
+{
+  "name": "peter-esg-chatgpt",
+  "interface": {
+    "displayName": "Peter ESG ChatGPT"
+  },
+  "plugins": [
+    {
+      "name": "esg-framepack-chatgpt",
+      "source": {
+        "source": "local",
+        "path": "./plugins/esg-framepack-chatgpt"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,1214 @@
+[
+  {
+    "path": "ESG_FramePack_PRD.md",
+    "length": 33935,
+    "sha256": "4A503D3C6D74A28D17E463E87585914CB38C22B939474AD7B400D6A43BE6112E",
+    "modified": 639248720616210616
+  },
+  {
+    "path": "ESG_FramePack_v0.3.zip",
+    "length": 55170,
+    "sha256": "C0B984DE3E84BBFA7FCC8EDD70664D0F8136D99A3BBE877CC78A7129D087101E",
+    "modified": 639248965332134786
+  },
+  {
+    "path": "dist\\ChatGPT_GPT_Setup.md",
+    "length": 4550,
+    "sha256": "4871737B3E5A6A670312B2A809336B6D4162D50F89BF45DCB247663F084C862D",
+    "modified": 639248965267385678
+  },
+  {
+    "path": "dist\\Core_Index.md",
+    "length": 27479,
+    "sha256": "1C36B1F7360B50332054404580E2405A6C57FE1BE7880C4ADDF2394E56FD49C8",
+    "modified": 639248965267385678
+  },
+  {
+    "path": "dist\\Form_Drafts.md",
+    "length": 10912,
+    "sha256": "8BFC07A4755DF4143F07B907597DD52E49D93F51F9BC936E42E1D95A61ED83C5",
+    "modified": 639248965267385678
+  },
+  {
+    "path": "dist\\Install_Guide.md",
+    "length": 8124,
+    "sha256": "867292F70DB04D87EC98056D60C5F3905E51E27D6A60300BA7015B7E81EAFE0A",
+    "modified": 639248965267385678
+  },
+  {
+    "path": "dist\\Output_Spec.md",
+    "length": 17501,
+    "sha256": "B75BDC2323F8CD7C1BEAC9B9BD5E8FD626085A3EB206B748116B99BF69D7772E",
+    "modified": 639248965267385678
+  },
+  {
+    "path": "dist\\Pool_Index.md",
+    "length": 6307,
+    "sha256": "17486B2716C04093273DAAB18C14AD6FA1E048E5B24CE33129AFB9B1023DA51A",
+    "modified": 639248965267385678
+  },
+  {
+    "path": "dist\\Reference.md",
+    "length": 125665,
+    "sha256": "91DFC691D9B5E2BB3C7FAF47037139BEC694C15B7D09A83517C11DFE88B6BE2D",
+    "modified": 639248965267385678
+  },
+  {
+    "path": "framepack\\README.md",
+    "length": 3807,
+    "sha256": "06F18A25EA374ECCBC75399B1BF66BB515C3AF4BC03CDE4559D7C5E4D84A37F3",
+    "modified": 639248499699838502
+  },
+  {
+    "path": "framepack\\SCHEMA.md",
+    "length": 11245,
+    "sha256": "5F77D967A6F3137F156EDA70AB08FA414A3D69F954E56E9B4DA46AA7415A610D",
+    "modified": 639248720616185362
+  },
+  {
+    "path": "framepack\\dist_static\\ChatGPT_GPT_Setup.md",
+    "length": 4550,
+    "sha256": "4871737B3E5A6A670312B2A809336B6D4162D50F89BF45DCB247663F084C862D",
+    "modified": 639248925577795588
+  },
+  {
+    "path": "framepack\\dist_static\\Install_Guide.md",
+    "length": 8124,
+    "sha256": "867292F70DB04D87EC98056D60C5F3905E51E27D6A60300BA7015B7E81EAFE0A",
+    "modified": 639248965207915956
+  },
+  {
+    "path": "framepack\\dist_static\\Output_Spec.md",
+    "length": 17501,
+    "sha256": "B75BDC2323F8CD7C1BEAC9B9BD5E8FD626085A3EB206B748116B99BF69D7772E",
+    "modified": 639248952703248083
+  },
+  {
+    "path": "framepack\\methodology\\ecovadis.md",
+    "length": 5558,
+    "sha256": "3133E9E9737BCF4E97C5161FAABD936F47FAE8E81B848C085D2F279469E71A60",
+    "modified": 639248497802276089
+  },
+  {
+    "path": "framepack\\methodology\\error-patterns.md",
+    "length": 4209,
+    "sha256": "1873B672D624320FBDA36C884A5AE470E82C4F1385E7C7C059D2610E2221DB1D",
+    "modified": 639248497178143467
+  },
+  {
+    "path": "framepack\\methodology\\evidence-schema.md",
+    "length": 6065,
+    "sha256": "59D1A7A6793F9FB6885D8215B862B57F46192CBEBFF34FCDD807D0B25A33CC10",
+    "modified": 639248683512999299
+  },
+  {
+    "path": "framepack\\methodology\\README.md",
+    "length": 2183,
+    "sha256": "45E1014ECAEE02A46EC8F6BFDB68CFBB3B43DABC5BD7AB6CCE53A330FD6F136F",
+    "modified": 639248720616154569
+  },
+  {
+    "path": "framepack\\proposals\\form-draft-10-23.md",
+    "length": 9102,
+    "sha256": "4ADAE032D795E687FE25244B2631C18634BA89DAA1EC5B82A457CF3F9C408BA1",
+    "modified": 639248720616106524
+  },
+  {
+    "path": "framepack\\proposals\\form-draft-11.md",
+    "length": 7130,
+    "sha256": "87D68F50F12F8F5F0BD2CFE403A4DA685E7184728CFC2435CB6D55FA3586BC18",
+    "modified": 639248720616116620
+  },
+  {
+    "path": "framepack\\proposals\\form-draft-16.md",
+    "length": 7430,
+    "sha256": "3BFBE29CB5896A0F87D3A86A1D506CE176FE9715640E20CADB92ED03949FC0B6",
+    "modified": 639248555825708268
+  },
+  {
+    "path": "framepack\\proposals\\form-draft-20.md",
+    "length": 5202,
+    "sha256": "D05093BB4545FB469E8A2905515643D706D7AF7BF45971FEFFD459C7D9CF926F",
+    "modified": 639248720616138093
+  },
+  {
+    "path": "framepack\\proposals\\form-draft-21.md",
+    "length": 4856,
+    "sha256": "BA4D7D2483F825588511C85B7D12DF1BF5ABD38C2E73D0C475920F5513DF534F",
+    "modified": 639248720616148265
+  },
+  {
+    "path": "framepack\\proposals\\README.md",
+    "length": 2395,
+    "sha256": "C342C0FDC04BCDD9A3BE8858B698F469D5EBF1D3DBF1F7D0AE4D58A52DEE0EE3",
+    "modified": 639248555523503676
+  },
+  {
+    "path": "framepack\\references\\index.md",
+    "length": 7376,
+    "sha256": "409F0DC653A84F992482518524E2F912E49205B36893FEA5F3AE0F5386CAF074",
+    "modified": 639248965267385678
+  },
+  {
+    "path": "framepack\\references\\core\\01.md",
+    "length": 8370,
+    "sha256": "7046D7B87817DF520A0073161283AD776AA1C6CB691A9332D2F229190D6D15F9",
+    "modified": 639248720615894262
+  },
+  {
+    "path": "framepack\\references\\core\\02.md",
+    "length": 8356,
+    "sha256": "0E9C20FCC3FE74419F3753E6A43D5ED0C5DAB069A4379CE5B8A15E94598AC5E2",
+    "modified": 639248720615894262
+  },
+  {
+    "path": "framepack\\references\\core\\03.md",
+    "length": 6661,
+    "sha256": "3D0AC11C27F891F0079B24E7F0345339296F0E378CC5DDCD901446C9236B0D08",
+    "modified": 639248720615909081
+  },
+  {
+    "path": "framepack\\references\\core\\04.md",
+    "length": 9260,
+    "sha256": "21CA2A168950D708597E9008927ADA9890AF0D30913DB94E912523834C32C6F4",
+    "modified": 639248720615919230
+  },
+  {
+    "path": "framepack\\references\\core\\05.md",
+    "length": 8019,
+    "sha256": "42FF80B8D6EAC76DDA5B11353E5974EF153D7EDEBBFE625E2B6C4496E2FCA468",
+    "modified": 639248720615933244
+  },
+  {
+    "path": "framepack\\references\\core\\06.md",
+    "length": 6778,
+    "sha256": "15FFE4DD194663C22BD9949465533AAC3D35E831D21385DF68F9E7148034D21B",
+    "modified": 639248720615953459
+  },
+  {
+    "path": "framepack\\references\\core\\07.md",
+    "length": 6067,
+    "sha256": "F0327DF36BE65E4BAE4D8D01C77717985A69B60F1C921D6D01FA28551B310738",
+    "modified": 639248720615968577
+  },
+  {
+    "path": "framepack\\references\\core\\08.md",
+    "length": 7810,
+    "sha256": "4342BA5E058C6C3681DBF456F6602F19ED3CCBCBB7FB72CD3BE04EB182C364B9",
+    "modified": 639248720615985015
+  },
+  {
+    "path": "framepack\\references\\core\\09.md",
+    "length": 9313,
+    "sha256": "4F63DCC153E6FDF8BCECB7147CA1C5FB2DAEC39710D5F83BC98B8BAA460B883C",
+    "modified": 639248720616008409
+  },
+  {
+    "path": "framepack\\references\\core\\10.md",
+    "length": 5703,
+    "sha256": "989FBE1F8AB0DB4B1C8D745102C20BDD14EB067009CACA72E358AF685CEC6DD2",
+    "modified": 639248720616015255
+  },
+  {
+    "path": "framepack\\references\\core\\11.md",
+    "length": 6086,
+    "sha256": "D2D3B2B32075BBE0FFF49DE58F0A4D397333E9DA51DF474CE3755DC7328CAFC0",
+    "modified": 639248720616015255
+  },
+  {
+    "path": "framepack\\references\\core\\12.md",
+    "length": 5157,
+    "sha256": "8AE7ABF85F994E9C16A836869D76AEACD7AA6A89F0304636D1C19869A71CC959",
+    "modified": 639248720616025350
+  },
+  {
+    "path": "framepack\\references\\core\\13.md",
+    "length": 4820,
+    "sha256": "4380068B55A332BE83A77AD84F9B92FC986564E5821FF96312B0CADAA64CDBFC",
+    "modified": 639248720616035263
+  },
+  {
+    "path": "framepack\\references\\core\\14.md",
+    "length": 4618,
+    "sha256": "1734FDE9FECDA3F32BB509DB919D01081935F718AFFB1439B10BAC3998C7B277",
+    "modified": 639248720616040405
+  },
+  {
+    "path": "framepack\\references\\core\\15.md",
+    "length": 5009,
+    "sha256": "4196E8568B701CE09BAE29D09F9F8E6C99FE79D57640D3F4A0C21AA96D47D5B8",
+    "modified": 639248720616045775
+  },
+  {
+    "path": "framepack\\references\\core\\16.md",
+    "length": 6894,
+    "sha256": "98AA2721EF7A9F7F496FF435D5C5C83FB6FEF047302FC9974820D8C7F3981C73",
+    "modified": 639248720616045775
+  },
+  {
+    "path": "framepack\\references\\core\\17.md",
+    "length": 6226,
+    "sha256": "C8FF5A9573184610710B9C2CFB7F48B993CDD48BD82F2C52C8D3A617B5A56B6B",
+    "modified": 639248720616045775
+  },
+  {
+    "path": "framepack\\references\\core\\18.md",
+    "length": 4729,
+    "sha256": "D0AD1F9574094E3A2C584B5FCA6F31E617D9DFEE2426A3DADC8BE7CCA297BEFC",
+    "modified": 639248720616061134
+  },
+  {
+    "path": "framepack\\references\\core\\19.md",
+    "length": 5071,
+    "sha256": "8CB86135955F3826B26D706D947BF656705166C9D9EDCDDD6D7C74B686A80E79",
+    "modified": 639248720616071280
+  },
+  {
+    "path": "framepack\\references\\core\\20.md",
+    "length": 4435,
+    "sha256": "8403C44BFBE10B178630CE6DDBC30AD5775E76E825B6A317C12EF8383E54840A",
+    "modified": 639248720616071280
+  },
+  {
+    "path": "framepack\\references\\core\\21.md",
+    "length": 5027,
+    "sha256": "47DBB23203EF8C219273CFEDA200332D85D0257032536090208BA6440EEBC772",
+    "modified": 639248720616071280
+  },
+  {
+    "path": "framepack\\references\\core\\22.md",
+    "length": 6345,
+    "sha256": "4585284E06F7639A1C4527768CB08204D68A86CF68788A35A229D39F449307C3",
+    "modified": 639248720616086386
+  },
+  {
+    "path": "framepack\\references\\core\\23.md",
+    "length": 5080,
+    "sha256": "EC74C69798F510710E08EA6E4C5714B514040226A0FEC8C7D575B86F6ECF9C7D",
+    "modified": 639248720616096561
+  },
+  {
+    "path": "framepack\\references\\pool\\03.md",
+    "length": 500,
+    "sha256": "44E0B4C0EA93CBE2173652449D363E7F975BE0562D05A1E289459DF8616898F5",
+    "modified": 639248495031218090
+  },
+  {
+    "path": "framepack\\references\\pool\\04.md",
+    "length": 484,
+    "sha256": "4363BF01A7A1E39F9F9525593BD72FE6A776160D1CB605553C3282820F786E44",
+    "modified": 639248495031218090
+  },
+  {
+    "path": "framepack\\references\\pool\\05.md",
+    "length": 506,
+    "sha256": "B804132632DA9E501A4989E44F5AFB68E43A5EC0C3CAACAD273039B1FF81C563",
+    "modified": 639248495031218090
+  },
+  {
+    "path": "framepack\\references\\pool\\14.md",
+    "length": 390,
+    "sha256": "304EDD9841FC3DFCB85CF70B0A43DCFA9432F98F14F96D0775C44C4DE2D7A4D0",
+    "modified": 639248495031227925
+  },
+  {
+    "path": "framepack\\references\\pool\\15.md",
+    "length": 522,
+    "sha256": "10B2C802090C3E01DAB1E25E1A7DD414343D46D3E4DC8EFFD5896363C8FD8E26",
+    "modified": 639248495031227925
+  },
+  {
+    "path": "framepack\\references\\pool\\16.md",
+    "length": 415,
+    "sha256": "6D6F2D114B42F1CE68808F2CB5A73A96BD29E14D1219560C637CA0C05786B885",
+    "modified": 639248495031237899
+  },
+  {
+    "path": "framepack\\references\\pool\\17.md",
+    "length": 425,
+    "sha256": "9DC1C27E715913EA85992D8F01CF8F9BB7390D73CABC791CFD58ED7D775B950D",
+    "modified": 639248495031237899
+  },
+  {
+    "path": "framepack\\references\\pool\\18.md",
+    "length": 412,
+    "sha256": "327CC1F5D29ED4D499FD28BE6FAD5AF8D23612CDB3B748F8842529EAE2EC26E4",
+    "modified": 639248495031237899
+  },
+  {
+    "path": "framepack\\references\\pool\\19.md",
+    "length": 544,
+    "sha256": "F01113E232A2BBD906FA1BA1755D134B2EB1451D6715E092BE25249EFFF26E60",
+    "modified": 639248495031248776
+  },
+  {
+    "path": "framepack\\references\\pool\\20.md",
+    "length": 603,
+    "sha256": "DDE875D44E3892A7387A7CEE4C175B9A591BD839DAC6551356C56AFEA31D425F",
+    "modified": 639248495031248776
+  },
+  {
+    "path": "framepack\\references\\pool\\21.md",
+    "length": 426,
+    "sha256": "9A1A0BC9307D38FAC4585337F9A42D22CBCF782EE6A171682DCC52464D527905",
+    "modified": 639248495031248776
+  },
+  {
+    "path": "framepack\\references\\pool\\22.md",
+    "length": 411,
+    "sha256": "7875EAACDB8D11CC605034B434637682B11D076D348AEE609BD1483FD8D48C1F",
+    "modified": 639248495031248776
+  },
+  {
+    "path": "framepack\\references\\pool\\23.md",
+    "length": 424,
+    "sha256": "69ED146F6F49630FB78C1376B93B6C1E748EF5ADC23E7C2696CF3AE253B179E8",
+    "modified": 639248495031248776
+  },
+  {
+    "path": "framepack\\references\\pool\\24.md",
+    "length": 383,
+    "sha256": "A5871908B2DD1FE0F0BCF0902D27A1BE87C4A7880189FC29725C962D7A9648FF",
+    "modified": 639248495031248776
+  },
+  {
+    "path": "framepack\\references\\pool\\25.md",
+    "length": 363,
+    "sha256": "2C9043155EB8747274AD3C680287AB9B548F6D143A75A4F6CF71133235587D64",
+    "modified": 639248495031262794
+  },
+  {
+    "path": "framepack\\references\\pool\\26.md",
+    "length": 401,
+    "sha256": "02BA14849FB1959DF86F19ED8DF8C5D5D4FC882BD7F9F8099115B0A0CF0DEA02",
+    "modified": 639248495031262794
+  },
+  {
+    "path": "framepack\\references\\pool\\28.md",
+    "length": 413,
+    "sha256": "14BD4CF89D7305B16001E5FB950329E0E34907819F89444F4E1FBE914A476EC1",
+    "modified": 639248495031262794
+  },
+  {
+    "path": "framepack\\references\\pool\\29.md",
+    "length": 465,
+    "sha256": "AA726E11FB12FFD2AB38CD28FFDF8765FB7AFAC8A45AA9E75361A4214CFACEC0",
+    "modified": 639248495031262794
+  },
+  {
+    "path": "framepack\\references\\pool\\30.md",
+    "length": 488,
+    "sha256": "FD54D7744CA7420EAD0C39A5FF7EF75C0AB2D2504A199A90F3276E0F066CF800",
+    "modified": 639248495031262794
+  },
+  {
+    "path": "framepack\\references\\pool\\31.md",
+    "length": 659,
+    "sha256": "870397D981111952E7AE6EE051C5738B28F72B17E1E6C4FDB210F3A151C52FBC",
+    "modified": 639248495031262794
+  },
+  {
+    "path": "framepack\\references\\pool\\32.md",
+    "length": 515,
+    "sha256": "F54C032E86A028EAD92231ADFFC16228715FA0D557CEE12104D24016BD7164DA",
+    "modified": 639248495031276386
+  },
+  {
+    "path": "framepack\\references\\pool\\34.md",
+    "length": 443,
+    "sha256": "C084F10EA4EBFBF347AE6E0B5607C32FD1CC6DA874A924E21ABCA241537B4ABF",
+    "modified": 639248495031276386
+  },
+  {
+    "path": "framepack\\references\\pool\\35.md",
+    "length": 448,
+    "sha256": "FF2769AA10F516A2220481959DB86DCDF629DF9437D5F80172EFBD9469492F83",
+    "modified": 639248495031276386
+  },
+  {
+    "path": "framepack\\references\\pool\\39.md",
+    "length": 452,
+    "sha256": "1594EBE2DE641B9E0146C3C15374458614DE67303E38DEDE4BAB163CE00760E8",
+    "modified": 639248495031290088
+  },
+  {
+    "path": "framepack\\references\\pool\\40.md",
+    "length": 482,
+    "sha256": "EBB9243B4FF8C8E716AC29056CFA32798BAC0FCE75F992232D35F74509B3033C",
+    "modified": 639248495031290088
+  },
+  {
+    "path": "framepack\\references\\pool\\41a.md",
+    "length": 539,
+    "sha256": "85107622BFA85DC6D5D65C98D662C2FC2587B572852C3A5DE185FFBCED767937",
+    "modified": 639248495031276386
+  },
+  {
+    "path": "framepack\\references\\pool\\41b.md",
+    "length": 555,
+    "sha256": "FF84C329700F35A9AE8720C6319112D231618EC9E64DAB28822EE1AC93250D62",
+    "modified": 639248495031290088
+  },
+  {
+    "path": "framepack\\references\\pool\\42.md",
+    "length": 511,
+    "sha256": "CFFDF06F66933B890DF8FBB32D0D8D2767E8994096202A1412044D4AE7240228",
+    "modified": 639248495031290088
+  },
+  {
+    "path": "framepack\\references\\pool\\43.md",
+    "length": 507,
+    "sha256": "CE36DC9551EB7E68F74C8427BEFC305C6883F43BC380922635C1BC2F9C0D684D",
+    "modified": 639248495031304075
+  },
+  {
+    "path": "framepack\\references\\pool\\44.md",
+    "length": 427,
+    "sha256": "A04AA1EF11E19297E1E644B91B9BFB04D0E5497EADD8BDD70106E96947840696",
+    "modified": 639248495031304075
+  },
+  {
+    "path": "framepack\\references\\pool\\45.md",
+    "length": 539,
+    "sha256": "90EE8F838BDC5B340AB1856CA7E113E00E9087500B7536C20F92F254C1C610D8",
+    "modified": 639248495031304075
+  },
+  {
+    "path": "framepack\\references\\pool\\46.md",
+    "length": 462,
+    "sha256": "7215EEA28BDB5B3F1F2EADDACC12B597FE582601D63D11A3994D4B381E7E956F",
+    "modified": 639248495031304075
+  },
+  {
+    "path": "framepack\\references\\pool\\47.md",
+    "length": 448,
+    "sha256": "B70D91474035FA88ECEE95D2762AAA88A921DEAF77D072B7FC6A9571D07D3542",
+    "modified": 639248495031304075
+  },
+  {
+    "path": "framepack\\references\\pool\\50.md",
+    "length": 404,
+    "sha256": "DDD4222B51CDCD0F83543C10290418B9D22EE905171C193474BBADF50C247391",
+    "modified": 639248495031276386
+  },
+  {
+    "path": "framepack\\references\\pool\\51.md",
+    "length": 626,
+    "sha256": "40DD35ECCCD24F03C112B24B73EC341E926EEBF4A30B7F2ECDD9953A942D8CC3",
+    "modified": 639248495031276386
+  },
+  {
+    "path": "framepack\\references\\pool\\52.md",
+    "length": 646,
+    "sha256": "CC6E745473486346FDDA77B6F7F41B34411A1B27DC25035A81B39BD63F875475",
+    "modified": 639248495031290088
+  },
+  {
+    "path": "framepack\\references\\pool\\53.md",
+    "length": 489,
+    "sha256": "78866A2262927B6A525A6D4594003CBF6FB46EB090DE35284C12ADC53B99BF32",
+    "modified": 639248495031290088
+  },
+  {
+    "path": "framepack\\references\\rules\\calendar.md",
+    "length": 962,
+    "sha256": "0A408ADBF9C9C91AD38B7EBADFF2E4F64549358A0253CBFF017D9C99ED90C4A7",
+    "modified": 639248965267385678
+  },
+  {
+    "path": "framepack\\references\\rules\\ecovadis.md",
+    "length": 824,
+    "sha256": "58383C09FB409FDFA28AEB6FA7E18B3715E9DAA19DA7149D914591D5EFD40DC5",
+    "modified": 639248720616170061
+  },
+  {
+    "path": "framepack\\references\\rules\\linkages.md",
+    "length": 6341,
+    "sha256": "8EF3B4CEE9CB7B3A36A696AF7B3EE889C0F87A9F845A4F98F0AC902FE536A551",
+    "modified": 639248965267385678
+  },
+  {
+    "path": "framepack\\references\\rules\\verification.md",
+    "length": 8237,
+    "sha256": "4DD0E04883B399CE74F52E84615C8E68D9CCBDBFF1DA063AE6A94B9D7AC7604E",
+    "modified": 639248952563735855
+  },
+  {
+    "path": "framepack\\skills\\check\\SKILL.md",
+    "length": 4416,
+    "sha256": "B961951117F2FDC8012A5B3CE94D7F9420C20CB19D2CBF74DEB8A98386DA37AB",
+    "modified": 639248941134503943
+  },
+  {
+    "path": "framepack\\skills\\crosscheck\\SKILL.md",
+    "length": 4460,
+    "sha256": "C18179BFB43D880F744BCF2102487F6BD8F9F538A8F690A97353DB5F433307CF",
+    "modified": 639248941189502368
+  },
+  {
+    "path": "framepack\\skills\\guide\\SKILL.md",
+    "length": 4011,
+    "sha256": "78E7E76EFAE866AFF35AB335B630E2CAC3380BE620DBD863A764782E10E4B058",
+    "modified": 639248941094672998
+  },
+  {
+    "path": "framepack\\skills\\proofread\\SKILL.md",
+    "length": 3621,
+    "sha256": "DA926262B60920A92E6AFD6F3D9231994105B256433A2286049CD97C461B8B3B",
+    "modified": 639248952351686296
+  },
+  {
+    "path": "framepack\\tools\\build_derived.py",
+    "length": 27372,
+    "sha256": "30B5F2185EC6FDA0835C2CED2E83C8307CEE4B57547DB72135E84E007A5ECE77",
+    "modified": 639248684741470683
+  },
+  {
+    "path": "framepack\\tools\\build_methodology_pdf.py",
+    "length": 20575,
+    "sha256": "8564DF58466A3E387C1503E4A4E824743630805AE305C5C0DA35A8FE32A02075",
+    "modified": 639248704456775869
+  },
+  {
+    "path": "framepack\\tools\\migrate_pool.py",
+    "length": 5219,
+    "sha256": "9386B86FFF66286D81CE15D7D0680A46E6AFDACCA7A704107CF0E096A276944E",
+    "modified": 639248493556961853
+  },
+  {
+    "path": "framepack\\tools\\verify_verbatim.py",
+    "length": 6271,
+    "sha256": "226605FBD145C7FB1BED4C0EE14739149B46DE816C68EF88EB08D628C588EA60",
+    "modified": 639248555023310701
+  },
+  {
+    "path": "output\\pdf\\ESG_증빙_검증_방법론_20260913.pdf",
+    "length": 181741,
+    "sha256": "F5AEB42BBAFC24137A94FD4D34C18B9F913CC1385F1B3B126BDECDB68196E602",
+    "modified": 639248703931856135
+  },
+  {
+    "path": "output\\pdf\\ESG_AI_운영_비용과_보안_검토안_20260912.pdf",
+    "length": 142951,
+    "sha256": "067E452F9867F27054B86A84A55D174929469BB778FFEDF780792F8BAAADAC7E",
+    "modified": 639247887085706509
+  },
+  {
+    "path": "plugin\\esg-framepack.plugin",
+    "length": 112279,
+    "sha256": "ED948D658DC7B8EFD5962649B47355EB5157B0DD7D1630310D7AA4A96ED65FCF",
+    "modified": 639248971817660989
+  },
+  {
+    "path": "plugin\\esg-framepack\\README.md",
+    "length": 2227,
+    "sha256": "A7CE8E52FFCD58D27FB1BE205833676317478C82AA26F2D2D7B408B82C582E91",
+    "modified": 639248941500322613
+  },
+  {
+    "path": "plugin\\esg-framepack\\.claude-plugin\\plugin.json",
+    "length": 303,
+    "sha256": "60D18CEE2375E21A4E2AC5296B6D723C94B15D5CCCC7B326CBFFE680D403F5BD",
+    "modified": 639248924464204090
+  },
+  {
+    "path": "plugin\\esg-framepack\\evals\\ambiguous-number-test\\prompt.md",
+    "length": 98,
+    "sha256": "BB74863F4FADDB4E3E4DBA33381227C98FCD76B77C732B60B5A6F723032E85CB",
+    "modified": 639248935881617657
+  },
+  {
+    "path": "plugin\\esg-framepack\\evals\\ambiguous-number-test\\graders\\criteria.md",
+    "length": 767,
+    "sha256": "43B1C71B6EC3DF8963963B650E1ED258E45DCAA10CFC3CA1E6684FBEF9BAE77E",
+    "modified": 639248935948363294
+  },
+  {
+    "path": "plugin\\esg-framepack\\evals\\check-test\\prompt.md",
+    "length": 659,
+    "sha256": "F7E896A009DA4F2F7257A5C6FEEBA8F84F1E34EB5F409B0CF3183B37EAF51A94",
+    "modified": 639248935506409240
+  },
+  {
+    "path": "plugin\\esg-framepack\\evals\\check-test\\graders\\criteria.md",
+    "length": 1578,
+    "sha256": "370953335DBA8F1BD3B26072F62117A292E1108264CD484A07AB8F0F9A33D2C6",
+    "modified": 639248935604442736
+  },
+  {
+    "path": "plugin\\esg-framepack\\evals\\crosscheck-test\\prompt.md",
+    "length": 163,
+    "sha256": "EABE9B4634B07EA545EFAE82036F72715D937BBF504E394DDC18CC6FE5A5E985",
+    "modified": 639248935652626815
+  },
+  {
+    "path": "plugin\\esg-framepack\\evals\\crosscheck-test\\graders\\criteria.md",
+    "length": 897,
+    "sha256": "D792D798EED516B2557ECA2B13F817396B4AD92A33024E7695FD13D45944D114",
+    "modified": 639248935720147808
+  },
+  {
+    "path": "plugin\\esg-framepack\\evals\\guide-test\\prompt.md",
+    "length": 108,
+    "sha256": "035F3DB0185281B310618788249B118C10E16AC566AFDF722C1B79D24E7503FE",
+    "modified": 639248935237807080
+  },
+  {
+    "path": "plugin\\esg-framepack\\evals\\guide-test\\graders\\criteria.md",
+    "length": 876,
+    "sha256": "0B8AA3F76DF890AF75855BD51D85BA4D698A9CF227DBB0D5D2BEF386991143C8",
+    "modified": 639248935305153740
+  },
+  {
+    "path": "plugin\\esg-framepack\\evals\\guide-test\\graders\\skill_used.md",
+    "length": 46,
+    "sha256": "B2BE0A89F7FB7B4C6712732F19B9DBAEF232072C28FAEBC6A7FE9FA0329774A3",
+    "modified": 639248935350280621
+  },
+  {
+    "path": "plugin\\esg-framepack\\evals\\proofread-test\\prompt.md",
+    "length": 396,
+    "sha256": "038FE5F204996B871D0AEBA3C5E6E752ED4657B2810C663D9D7DB6790822C9EC",
+    "modified": 639248935773241187
+  },
+  {
+    "path": "plugin\\esg-framepack\\evals\\proofread-test\\graders\\criteria.md",
+    "length": 957,
+    "sha256": "AA4C79ABF4B5E5614602F33440B8D197AB2703318C2D3A6249F0B8BE9CBCBF66",
+    "modified": 639248935847174457
+  },
+  {
+    "path": "plugin\\esg-framepack\\evals\\results\\2026-09-13T10-53-30-983Z\\aggregate-result.json",
+    "length": 23598,
+    "sha256": "E5CB447EEC17650D274F5AF6969181C50A18761D99892B68E64245B582C608D1",
+    "modified": 639248937846561726
+  },
+  {
+    "path": "plugin\\esg-framepack\\evals\\results\\2026-09-13T10-53-30-983Z\\report.html",
+    "length": 33640,
+    "sha256": "687AA509AEC5C65D19492CDAE1F7025FB0B6D3CC1892C14C12D4693E44B3ED45",
+    "modified": 639248937846619265
+  },
+  {
+    "path": "plugin\\esg-framepack\\evals\\results\\2026-09-13T11-04-34-229Z\\aggregate-result.json",
+    "length": 31726,
+    "sha256": "FB269D418C15B8D455193E870F2E84C3AFAE4DEFFBF3115399159CA8FBF6DD89",
+    "modified": 639248944975199415
+  },
+  {
+    "path": "plugin\\esg-framepack\\evals\\results\\2026-09-13T11-04-34-229Z\\report.html",
+    "length": 41172,
+    "sha256": "AED3445B60B89DB2DCB25975486A777E981432D5087F1E791A16200D864ED4C7",
+    "modified": 639248944975279516
+  },
+  {
+    "path": "plugin\\esg-framepack\\evals\\results\\2026-09-13T11-11-38-864Z\\aggregate-result.json",
+    "length": 29161,
+    "sha256": "B1465F0D19BC2B089D948272B2BA1EEF98FD6A9D51E81688CF30A92DF107AE54",
+    "modified": 639248948954959797
+  },
+  {
+    "path": "plugin\\esg-framepack\\evals\\results\\2026-09-13T11-11-38-864Z\\report.html",
+    "length": 38597,
+    "sha256": "4EDD65C922C9AD83B3D4DB755CF3579EC0E7A5BFFF7A5391A2AFFA489074748F",
+    "modified": 639248948955060504
+  },
+  {
+    "path": "plugin\\esg-framepack\\evals\\results\\2026-09-13T11-22-06-651Z\\aggregate-result.json",
+    "length": 29951,
+    "sha256": "68402A93CCCE538E8FC4827EA5317DDC3ECEED2B671952684810573C1EAC2BC7",
+    "modified": 639248955048671068
+  },
+  {
+    "path": "plugin\\esg-framepack\\evals\\results\\2026-09-13T11-22-06-651Z\\report.html",
+    "length": 39377,
+    "sha256": "BD98532BB237D530962E34D69D6D3F8D3E30215DDEF6B1F1865206AB86F3D87C",
+    "modified": 639248955048724407
+  },
+  {
+    "path": "plugin\\esg-framepack\\methodology\\ecovadis.md",
+    "length": 5558,
+    "sha256": "3133E9E9737BCF4E97C5161FAABD936F47FAE8E81B848C085D2F279469E71A60",
+    "modified": 639248941406495859
+  },
+  {
+    "path": "plugin\\esg-framepack\\methodology\\error-patterns.md",
+    "length": 4209,
+    "sha256": "1873B672D624320FBDA36C884A5AE470E82C4F1385E7C7C059D2610E2221DB1D",
+    "modified": 639248941406495859
+  },
+  {
+    "path": "plugin\\esg-framepack\\methodology\\evidence-schema.md",
+    "length": 6065,
+    "sha256": "59D1A7A6793F9FB6885D8215B862B57F46192CBEBFF34FCDD807D0B25A33CC10",
+    "modified": 639248941406495859
+  },
+  {
+    "path": "plugin\\esg-framepack\\methodology\\README.md",
+    "length": 2183,
+    "sha256": "45E1014ECAEE02A46EC8F6BFDB68CFBB3B43DABC5BD7AB6CCE53A330FD6F136F",
+    "modified": 639248941406495859
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\index.md",
+    "length": 7376,
+    "sha256": "409F0DC653A84F992482518524E2F912E49205B36893FEA5F3AE0F5386CAF074",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\01.md",
+    "length": 8370,
+    "sha256": "7046D7B87817DF520A0073161283AD776AA1C6CB691A9332D2F229190D6D15F9",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\02.md",
+    "length": 8356,
+    "sha256": "0E9C20FCC3FE74419F3753E6A43D5ED0C5DAB069A4379CE5B8A15E94598AC5E2",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\03.md",
+    "length": 6661,
+    "sha256": "3D0AC11C27F891F0079B24E7F0345339296F0E378CC5DDCD901446C9236B0D08",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\04.md",
+    "length": 9260,
+    "sha256": "21CA2A168950D708597E9008927ADA9890AF0D30913DB94E912523834C32C6F4",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\05.md",
+    "length": 8019,
+    "sha256": "42FF80B8D6EAC76DDA5B11353E5974EF153D7EDEBBFE625E2B6C4496E2FCA468",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\06.md",
+    "length": 6778,
+    "sha256": "15FFE4DD194663C22BD9949465533AAC3D35E831D21385DF68F9E7148034D21B",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\07.md",
+    "length": 6067,
+    "sha256": "F0327DF36BE65E4BAE4D8D01C77717985A69B60F1C921D6D01FA28551B310738",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\08.md",
+    "length": 7810,
+    "sha256": "4342BA5E058C6C3681DBF456F6602F19ED3CCBCBB7FB72CD3BE04EB182C364B9",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\09.md",
+    "length": 9313,
+    "sha256": "4F63DCC153E6FDF8BCECB7147CA1C5FB2DAEC39710D5F83BC98B8BAA460B883C",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\10.md",
+    "length": 5703,
+    "sha256": "989FBE1F8AB0DB4B1C8D745102C20BDD14EB067009CACA72E358AF685CEC6DD2",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\11.md",
+    "length": 6086,
+    "sha256": "D2D3B2B32075BBE0FFF49DE58F0A4D397333E9DA51DF474CE3755DC7328CAFC0",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\12.md",
+    "length": 5157,
+    "sha256": "8AE7ABF85F994E9C16A836869D76AEACD7AA6A89F0304636D1C19869A71CC959",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\13.md",
+    "length": 4820,
+    "sha256": "4380068B55A332BE83A77AD84F9B92FC986564E5821FF96312B0CADAA64CDBFC",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\14.md",
+    "length": 4618,
+    "sha256": "1734FDE9FECDA3F32BB509DB919D01081935F718AFFB1439B10BAC3998C7B277",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\15.md",
+    "length": 5009,
+    "sha256": "4196E8568B701CE09BAE29D09F9F8E6C99FE79D57640D3F4A0C21AA96D47D5B8",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\16.md",
+    "length": 6894,
+    "sha256": "98AA2721EF7A9F7F496FF435D5C5C83FB6FEF047302FC9974820D8C7F3981C73",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\17.md",
+    "length": 6226,
+    "sha256": "C8FF5A9573184610710B9C2CFB7F48B993CDD48BD82F2C52C8D3A617B5A56B6B",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\18.md",
+    "length": 4729,
+    "sha256": "D0AD1F9574094E3A2C584B5FCA6F31E617D9DFEE2426A3DADC8BE7CCA297BEFC",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\19.md",
+    "length": 5071,
+    "sha256": "8CB86135955F3826B26D706D947BF656705166C9D9EDCDDD6D7C74B686A80E79",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\20.md",
+    "length": 4435,
+    "sha256": "8403C44BFBE10B178630CE6DDBC30AD5775E76E825B6A317C12EF8383E54840A",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\21.md",
+    "length": 5027,
+    "sha256": "47DBB23203EF8C219273CFEDA200332D85D0257032536090208BA6440EEBC772",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\22.md",
+    "length": 6345,
+    "sha256": "4585284E06F7639A1C4527768CB08204D68A86CF68788A35A229D39F449307C3",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\core\\23.md",
+    "length": 5080,
+    "sha256": "EC74C69798F510710E08EA6E4C5714B514040226A0FEC8C7D575B86F6ECF9C7D",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\03.md",
+    "length": 500,
+    "sha256": "44E0B4C0EA93CBE2173652449D363E7F975BE0562D05A1E289459DF8616898F5",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\04.md",
+    "length": 484,
+    "sha256": "4363BF01A7A1E39F9F9525593BD72FE6A776160D1CB605553C3282820F786E44",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\05.md",
+    "length": 506,
+    "sha256": "B804132632DA9E501A4989E44F5AFB68E43A5EC0C3CAACAD273039B1FF81C563",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\14.md",
+    "length": 390,
+    "sha256": "304EDD9841FC3DFCB85CF70B0A43DCFA9432F98F14F96D0775C44C4DE2D7A4D0",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\15.md",
+    "length": 522,
+    "sha256": "10B2C802090C3E01DAB1E25E1A7DD414343D46D3E4DC8EFFD5896363C8FD8E26",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\16.md",
+    "length": 415,
+    "sha256": "6D6F2D114B42F1CE68808F2CB5A73A96BD29E14D1219560C637CA0C05786B885",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\17.md",
+    "length": 425,
+    "sha256": "9DC1C27E715913EA85992D8F01CF8F9BB7390D73CABC791CFD58ED7D775B950D",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\18.md",
+    "length": 412,
+    "sha256": "327CC1F5D29ED4D499FD28BE6FAD5AF8D23612CDB3B748F8842529EAE2EC26E4",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\19.md",
+    "length": 544,
+    "sha256": "F01113E232A2BBD906FA1BA1755D134B2EB1451D6715E092BE25249EFFF26E60",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\20.md",
+    "length": 603,
+    "sha256": "DDE875D44E3892A7387A7CEE4C175B9A591BD839DAC6551356C56AFEA31D425F",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\21.md",
+    "length": 426,
+    "sha256": "9A1A0BC9307D38FAC4585337F9A42D22CBCF782EE6A171682DCC52464D527905",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\22.md",
+    "length": 411,
+    "sha256": "7875EAACDB8D11CC605034B434637682B11D076D348AEE609BD1483FD8D48C1F",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\23.md",
+    "length": 424,
+    "sha256": "69ED146F6F49630FB78C1376B93B6C1E748EF5ADC23E7C2696CF3AE253B179E8",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\24.md",
+    "length": 383,
+    "sha256": "A5871908B2DD1FE0F0BCF0902D27A1BE87C4A7880189FC29725C962D7A9648FF",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\25.md",
+    "length": 363,
+    "sha256": "2C9043155EB8747274AD3C680287AB9B548F6D143A75A4F6CF71133235587D64",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\26.md",
+    "length": 401,
+    "sha256": "02BA14849FB1959DF86F19ED8DF8C5D5D4FC882BD7F9F8099115B0A0CF0DEA02",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\28.md",
+    "length": 413,
+    "sha256": "14BD4CF89D7305B16001E5FB950329E0E34907819F89444F4E1FBE914A476EC1",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\29.md",
+    "length": 465,
+    "sha256": "AA726E11FB12FFD2AB38CD28FFDF8765FB7AFAC8A45AA9E75361A4214CFACEC0",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\30.md",
+    "length": 488,
+    "sha256": "FD54D7744CA7420EAD0C39A5FF7EF75C0AB2D2504A199A90F3276E0F066CF800",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\31.md",
+    "length": 659,
+    "sha256": "870397D981111952E7AE6EE051C5738B28F72B17E1E6C4FDB210F3A151C52FBC",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\32.md",
+    "length": 515,
+    "sha256": "F54C032E86A028EAD92231ADFFC16228715FA0D557CEE12104D24016BD7164DA",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\34.md",
+    "length": 443,
+    "sha256": "C084F10EA4EBFBF347AE6E0B5607C32FD1CC6DA874A924E21ABCA241537B4ABF",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\35.md",
+    "length": 448,
+    "sha256": "FF2769AA10F516A2220481959DB86DCDF629DF9437D5F80172EFBD9469492F83",
+    "modified": 639248924523789375
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\39.md",
+    "length": 452,
+    "sha256": "1594EBE2DE641B9E0146C3C15374458614DE67303E38DEDE4BAB163CE00760E8",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\40.md",
+    "length": 482,
+    "sha256": "EBB9243B4FF8C8E716AC29056CFA32798BAC0FCE75F992232D35F74509B3033C",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\41a.md",
+    "length": 539,
+    "sha256": "85107622BFA85DC6D5D65C98D662C2FC2587B572852C3A5DE185FFBCED767937",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\41b.md",
+    "length": 555,
+    "sha256": "FF84C329700F35A9AE8720C6319112D231618EC9E64DAB28822EE1AC93250D62",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\42.md",
+    "length": 511,
+    "sha256": "CFFDF06F66933B890DF8FBB32D0D8D2767E8994096202A1412044D4AE7240228",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\43.md",
+    "length": 507,
+    "sha256": "CE36DC9551EB7E68F74C8427BEFC305C6883F43BC380922635C1BC2F9C0D684D",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\44.md",
+    "length": 427,
+    "sha256": "A04AA1EF11E19297E1E644B91B9BFB04D0E5497EADD8BDD70106E96947840696",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\45.md",
+    "length": 539,
+    "sha256": "90EE8F838BDC5B340AB1856CA7E113E00E9087500B7536C20F92F254C1C610D8",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\46.md",
+    "length": 462,
+    "sha256": "7215EEA28BDB5B3F1F2EADDACC12B597FE582601D63D11A3994D4B381E7E956F",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\47.md",
+    "length": 448,
+    "sha256": "B70D91474035FA88ECEE95D2762AAA88A921DEAF77D072B7FC6A9571D07D3542",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\50.md",
+    "length": 404,
+    "sha256": "DDD4222B51CDCD0F83543C10290418B9D22EE905171C193474BBADF50C247391",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\51.md",
+    "length": 626,
+    "sha256": "40DD35ECCCD24F03C112B24B73EC341E926EEBF4A30B7F2ECDD9953A942D8CC3",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\52.md",
+    "length": 646,
+    "sha256": "CC6E745473486346FDDA77B6F7F41B34411A1B27DC25035A81B39BD63F875475",
+    "modified": 639248924523793432
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\pool\\53.md",
+    "length": 489,
+    "sha256": "78866A2262927B6A525A6D4594003CBF6FB46EB090DE35284C12ADC53B99BF32",
+    "modified": 639248924523637662
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\rules\\calendar.md",
+    "length": 962,
+    "sha256": "0A408ADBF9C9C91AD38B7EBADFF2E4F64549358A0253CBFF017D9C99ED90C4A7",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\rules\\ecovadis.md",
+    "length": 824,
+    "sha256": "58383C09FB409FDFA28AEB6FA7E18B3715E9DAA19DA7149D914591D5EFD40DC5",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\rules\\linkages.md",
+    "length": 6341,
+    "sha256": "8EF3B4CEE9CB7B3A36A696AF7B3EE889C0F87A9F845A4F98F0AC902FE536A551",
+    "modified": 639248924523805820
+  },
+  {
+    "path": "plugin\\esg-framepack\\references\\rules\\verification.md",
+    "length": 8237,
+    "sha256": "4DD0E04883B399CE74F52E84615C8E68D9CCBDBFF1DA063AE6A94B9D7AC7604E",
+    "modified": 639248952868167047
+  },
+  {
+    "path": "plugin\\esg-framepack\\skills\\check\\SKILL.md",
+    "length": 4416,
+    "sha256": "B961951117F2FDC8012A5B3CE94D7F9420C20CB19D2CBF74DEB8A98386DA37AB",
+    "modified": 639248941405823649
+  },
+  {
+    "path": "plugin\\esg-framepack\\skills\\crosscheck\\SKILL.md",
+    "length": 4460,
+    "sha256": "C18179BFB43D880F744BCF2102487F6BD8F9F538A8F690A97353DB5F433307CF",
+    "modified": 639248941405994916
+  },
+  {
+    "path": "plugin\\esg-framepack\\skills\\guide\\SKILL.md",
+    "length": 4011,
+    "sha256": "78E7E76EFAE866AFF35AB335B630E2CAC3380BE620DBD863A764782E10E4B058",
+    "modified": 639248941405500020
+  },
+  {
+    "path": "plugin\\esg-framepack\\skills\\proofread\\SKILL.md",
+    "length": 3621,
+    "sha256": "DA926262B60920A92E6AFD6F3D9231994105B256433A2286049CD97C461B8B3B",
+    "modified": 639248952867880624
+  },
+  {
+    "path": "source\\Core_Index.md",
+    "length": 26209,
+    "sha256": "C997D3EEB85EAB51F4B1C9A30787AB1D23417B0C4B263549FCED7FF1F5630EB7",
+    "modified": 639248720615833521
+  },
+  {
+    "path": "source\\Pool_Index.md",
+    "length": 7843,
+    "sha256": "CA8ABFE2C3FC4B7A56299F2D1A4F66803BD3C1BBD5957F3C40C991BB72B54D1F",
+    "modified": 639248495279648084
+  },
+  {
+    "path": "source\\README.md",
+    "length": 4588,
+    "sha256": "3E57CA70A2A317DA471411B445F511F06DEDD0C3069EA1F8285AEFF1FD1C212D",
+    "modified": 639248722329832637
+  },
+  {
+    "path": "source\\legal-verification\\round1.md",
+    "length": 11046,
+    "sha256": "C6D998A2CB2E7DA1438FC4D6F5349C3F2B3B2E744B41C23DB4C1E26527EDD71C",
+    "modified": 639248720615843630
+  },
+  {
+    "path": "source\\legal-verification\\round2.md",
+    "length": 20275,
+    "sha256": "52CB80BCCBA8B1BDF5A3BB1544B23B46A025C3F430CF0F3B56717B9334D8CF87",
+    "modified": 639248720615853659
+  },
+  {
+    "path": "source\\legal-verification\\round3.md",
+    "length": 27854,
+    "sha256": "33D355A964E5D2AE90F4E6B4335B01900DD0DD8A7805B88D6BE4E1280A6D6C77",
+    "modified": 639248720615863638
+  },
+  {
+    "path": "source\\legal-verification\\round4.md",
+    "length": 34686,
+    "sha256": "70A911DF7599D762011479881C9B7929F90A63CD37B2E1225D12ADA70D179AEE",
+    "modified": 639248720615878773
+  },
+  {
+    "path": "source\\legal-verification\\round5.md",
+    "length": 44781,
+    "sha256": "8966C1E9FFC7CDD36D65C071CC6CF06FBC1AAE41967DD0A9BBD2D32BED304B1C",
+    "modified": 639248720615884126
+  }
+]

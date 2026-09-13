@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "original_files_checked": 202,
+  "source_content_and_modified_times_unchanged": true,
+  "mapped_files_checked": 211,
+  "skills": 4,
+  "core_per_reference_skill": 23,
+  "pool_per_reference_skill": 37,
+  "archives_checked": 5,
+  "chatgpt_live_test": "NOT_RUN",
+  "errors": []
+}

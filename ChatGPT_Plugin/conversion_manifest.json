@@ -1,0 +1,1479 @@
+[
+  {
+    "source": "plugin/esg-framepack/skills/guide/SKILL.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/SKILL.md",
+    "conversion": "스킬 이름, 입력 표기, 로컬 리소스 경로 및 ChatGPT 실행 안내",
+    "source_sha256": "78e7e76efae866aff35ab335b630e2cac3380be620dbd863a764782e10e4b058",
+    "target_sha256": "10c679fa64afd54d50b31df3afcf9dc8e8dc10c7b81bf3613311b52dfeffeca6"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/01.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/01.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "7046d7b87817df520a0073161283ad776aa1c6cb691a9332d2f229190d6d15f9",
+    "target_sha256": "7046d7b87817df520a0073161283ad776aa1c6cb691a9332d2f229190d6d15f9"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/02.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/02.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "0e9c20fcc3fe74419f3753e6a43d5ed0c5dab069a4379ce5b8a15e94598ac5e2",
+    "target_sha256": "0e9c20fcc3fe74419f3753e6a43d5ed0c5dab069a4379ce5b8a15e94598ac5e2"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/03.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/03.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "3d0ac11c27f891f0079b24e7f0345339296f0e378cc5ddcd901446c9236b0d08",
+    "target_sha256": "3d0ac11c27f891f0079b24e7f0345339296f0e378cc5ddcd901446c9236b0d08"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/04.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/04.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "21ca2a168950d708597e9008927ada9890af0d30913db94e912523834c32c6f4",
+    "target_sha256": "21ca2a168950d708597e9008927ada9890af0d30913db94e912523834c32c6f4"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/05.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/05.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "42ff80b8d6eac76dda5b11353e5974ef153d7edebbfe625e2b6c4496e2fca468",
+    "target_sha256": "42ff80b8d6eac76dda5b11353e5974ef153d7edebbfe625e2b6c4496e2fca468"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/06.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/06.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "15ffe4dd194663c22bd9949465533aac3d35e831d21385df68f9e7148034d21b",
+    "target_sha256": "15ffe4dd194663c22bd9949465533aac3d35e831d21385df68f9e7148034d21b"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/07.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/07.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "f0327df36be65e4bae4d8d01c77717985a69b60f1c921d6d01fa28551b310738",
+    "target_sha256": "f0327df36be65e4bae4d8d01c77717985a69b60f1c921d6d01fa28551b310738"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/08.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/08.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "4342ba5e058c6c3681dbf456f6602f19ed3ccbcbb7fb72cd3be04eb182c364b9",
+    "target_sha256": "4342ba5e058c6c3681dbf456f6602f19ed3ccbcbb7fb72cd3be04eb182c364b9"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/09.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/09.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "4f63dcc153e6fdf8bcecb7147ca1c5fb2daec39710d5f83bc98b8baa460b883c",
+    "target_sha256": "4f63dcc153e6fdf8bcecb7147ca1c5fb2daec39710d5f83bc98b8baa460b883c"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/10.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/10.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "989fbe1f8ab0db4b1c8d745102c20bdd14eb067009caca72e358af685cec6dd2",
+    "target_sha256": "989fbe1f8ab0db4b1c8d745102c20bdd14eb067009caca72e358af685cec6dd2"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/11.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/11.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "d2d3b2b32075bbe0fff49de58f0a4d397333e9da51df474ce3755dc7328cafc0",
+    "target_sha256": "d2d3b2b32075bbe0fff49de58f0a4d397333e9da51df474ce3755dc7328cafc0"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/12.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/12.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "8ae7abf85f994e9c16a836869d76aeacd7aa6a89f0304636d1c19869a71cc959",
+    "target_sha256": "8ae7abf85f994e9c16a836869d76aeacd7aa6a89f0304636d1c19869a71cc959"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/13.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/13.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "4380068b55a332be83a77ad84f9b92fc986564e5821ff96312b0cadaa64cdbfc",
+    "target_sha256": "4380068b55a332be83a77ad84f9b92fc986564e5821ff96312b0cadaa64cdbfc"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/14.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/14.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "1734fde9fecda3f32bb509db919d01081935f718affb1439b10bac3998c7b277",
+    "target_sha256": "1734fde9fecda3f32bb509db919d01081935f718affb1439b10bac3998c7b277"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/15.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/15.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "4196e8568b701ce09bae29d09f9f8e6c99fe79d57640d3f4a0c21aa96d47d5b8",
+    "target_sha256": "4196e8568b701ce09bae29d09f9f8e6c99fe79d57640d3f4a0c21aa96d47d5b8"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/16.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/16.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "98aa2721ef7a9f7f496ff435d5c5c83fb6fef047302fc9974820d8c7f3981c73",
+    "target_sha256": "98aa2721ef7a9f7f496ff435d5c5c83fb6fef047302fc9974820d8c7f3981c73"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/17.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/17.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "c8ff5a9573184610710b9c2cfb7f48b993cdd48bd82f2c52c8d3a617b5a56b6b",
+    "target_sha256": "c8ff5a9573184610710b9c2cfb7f48b993cdd48bd82f2c52c8d3a617b5a56b6b"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/18.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/18.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "d0ad1f9574094e3a2c584b5fca6f31e617d9dfee2426a3dadc8be7cca297befc",
+    "target_sha256": "d0ad1f9574094e3a2c584b5fca6f31e617d9dfee2426a3dadc8be7cca297befc"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/19.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/19.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "8cb86135955f3826b26d706d947bf656705166c9d9edcddd6d7c74b686a80e79",
+    "target_sha256": "8cb86135955f3826b26d706d947bf656705166c9d9edcddd6d7c74b686a80e79"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/20.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/20.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "8403c44bfbe10b178630ce6ddbc30ad5775e76e825b6a317c12ef8383e54840a",
+    "target_sha256": "8403c44bfbe10b178630ce6ddbc30ad5775e76e825b6a317c12ef8383e54840a"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/21.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/21.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "47dbb23203ef8c219273cfeda200332d85d0257032536090208ba6440eebc772",
+    "target_sha256": "47dbb23203ef8c219273cfeda200332d85d0257032536090208ba6440eebc772"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/22.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/22.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "4585284e06f7639a1c4527768cb08204d68a86cf68788a35a229d39f449307c3",
+    "target_sha256": "4585284e06f7639a1c4527768cb08204d68a86cf68788a35a229d39f449307c3"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/23.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/core/23.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "ec74c69798f510710e08ea6e4c5714b514040226a0fec8c7d575b86f6ecf9c7d",
+    "target_sha256": "ec74c69798f510710e08ea6e4c5714b514040226a0fec8c7d575b86f6ecf9c7d"
+  },
+  {
+    "source": "plugin/esg-framepack/references/index.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/index.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "409f0dc653a84f992482518524e2f912e49205b36893fea5f3ae0f5386caf074",
+    "target_sha256": "409f0dc653a84f992482518524e2f912e49205b36893fea5f3ae0f5386caf074"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/03.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/03.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "44e0b4c0ea93cbe2173652449d363e7f975be0562d05a1e289459df8616898f5",
+    "target_sha256": "44e0b4c0ea93cbe2173652449d363e7f975be0562d05a1e289459df8616898f5"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/04.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/04.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "4363bf01a7a1e39f9f9525593bd72fe6a776160d1cb605553c3282820f786e44",
+    "target_sha256": "4363bf01a7a1e39f9f9525593bd72fe6a776160d1cb605553c3282820f786e44"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/05.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/05.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "b804132632da9e501a4989e44f5afb68e43a5ec0c3caacad273039b1ff81c563",
+    "target_sha256": "b804132632da9e501a4989e44f5afb68e43a5ec0c3caacad273039b1ff81c563"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/14.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/14.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "304edd9841fc3dfcb85cf70b0a43dcfa9432f98f14f96d0775c44c4de2d7a4d0",
+    "target_sha256": "304edd9841fc3dfcb85cf70b0a43dcfa9432f98f14f96d0775c44c4de2d7a4d0"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/15.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/15.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "10b2c802090c3e01dab1e25e1a7dd414343d46d3e4dc8effd5896363c8fd8e26",
+    "target_sha256": "10b2c802090c3e01dab1e25e1a7dd414343d46d3e4dc8effd5896363c8fd8e26"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/16.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/16.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "6d6f2d114b42f1ce68808f2cb5a73a96bd29e14d1219560c637ca0c05786b885",
+    "target_sha256": "6d6f2d114b42f1ce68808f2cb5a73a96bd29e14d1219560c637ca0c05786b885"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/17.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/17.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "9dc1c27e715913ea85992d8f01cf8f9bb7390d73cabc791cfd58ed7d775b950d",
+    "target_sha256": "9dc1c27e715913ea85992d8f01cf8f9bb7390d73cabc791cfd58ed7d775b950d"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/18.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/18.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "327cc1f5d29ed4d499fd28be6fad5af8d23612cdb3b748f8842529eae2ec26e4",
+    "target_sha256": "327cc1f5d29ed4d499fd28be6fad5af8d23612cdb3b748f8842529eae2ec26e4"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/19.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/19.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "f01113e232a2bbd906fa1ba1755d134b2eb1451d6715e092be25249efff26e60",
+    "target_sha256": "f01113e232a2bbd906fa1ba1755d134b2eb1451d6715e092be25249efff26e60"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/20.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/20.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "dde875d44e3892a7387a7cee4c175b9a591bd839dac6551356c56afea31d425f",
+    "target_sha256": "dde875d44e3892a7387a7cee4c175b9a591bd839dac6551356c56afea31d425f"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/21.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/21.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "9a1a0bc9307d38fac4585337f9a42d22cbcf782ee6a171682dcc52464d527905",
+    "target_sha256": "9a1a0bc9307d38fac4585337f9a42d22cbcf782ee6a171682dcc52464d527905"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/22.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/22.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "7875eaacdb8d11cc605034b434637682b11d076d348aee609bd1483fd8d48c1f",
+    "target_sha256": "7875eaacdb8d11cc605034b434637682b11d076d348aee609bd1483fd8d48c1f"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/23.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/23.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "69ed146f6f49630fb78c1376b93b6c1e748ef5adc23e7c2696cf3ae253b179e8",
+    "target_sha256": "69ed146f6f49630fb78c1376b93b6c1e748ef5adc23e7c2696cf3ae253b179e8"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/24.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/24.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "a5871908b2dd1fe0f0bcf0902d27a1be87c4a7880189fc29725c962d7a9648ff",
+    "target_sha256": "a5871908b2dd1fe0f0bcf0902d27a1be87c4a7880189fc29725c962d7a9648ff"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/25.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/25.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "2c9043155eb8747274ad3c680287ab9b548f6d143a75a4f6cf71133235587d64",
+    "target_sha256": "2c9043155eb8747274ad3c680287ab9b548f6d143a75a4f6cf71133235587d64"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/26.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/26.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "02ba14849fb1959df86f19ed8df8c5d5d4fc882bd7f9f8099115b0a0cf0dea02",
+    "target_sha256": "02ba14849fb1959df86f19ed8df8c5d5d4fc882bd7f9f8099115b0a0cf0dea02"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/28.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/28.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "14bd4cf89d7305b16001e5fb950329e0e34907819f89444f4e1fbe914a476ec1",
+    "target_sha256": "14bd4cf89d7305b16001e5fb950329e0e34907819f89444f4e1fbe914a476ec1"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/29.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/29.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "aa726e11fb12ffd2ab38cd28ffdf8765fb7afac8a45aa9e75361a4214cfacec0",
+    "target_sha256": "aa726e11fb12ffd2ab38cd28ffdf8765fb7afac8a45aa9e75361a4214cfacec0"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/30.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/30.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "fd54d7744ca7420ead0c39a5ff7ef75c0ab2d2504a199a90f3276e0f066cf800",
+    "target_sha256": "fd54d7744ca7420ead0c39a5ff7ef75c0ab2d2504a199a90f3276e0f066cf800"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/31.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/31.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "870397d981111952e7ae6ee051c5738b28f72b17e1e6c4fdb210f3a151c52fbc",
+    "target_sha256": "870397d981111952e7ae6ee051c5738b28f72b17e1e6c4fdb210f3a151c52fbc"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/32.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/32.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "f54c032e86a028ead92231adffc16228715fa0d557cee12104d24016bd7164da",
+    "target_sha256": "f54c032e86a028ead92231adffc16228715fa0d557cee12104d24016bd7164da"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/34.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/34.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "c084f10ea4ebfbf347ae6e0b5607c32fd1cc6da874a924e21abca241537b4abf",
+    "target_sha256": "c084f10ea4ebfbf347ae6e0b5607c32fd1cc6da874a924e21abca241537b4abf"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/35.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/35.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "ff2769aa10f516a2220481959db86dcdf629df9437d5f80172efbd9469492f83",
+    "target_sha256": "ff2769aa10f516a2220481959db86dcdf629df9437d5f80172efbd9469492f83"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/39.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/39.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "1594ebe2de641b9e0146c3c15374458614de67303e38dede4bab163ce00760e8",
+    "target_sha256": "1594ebe2de641b9e0146c3c15374458614de67303e38dede4bab163ce00760e8"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/40.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/40.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "ebb9243b4ff8c8e716ac29056cfa32798bac0fce75f992232d35f74509b3033c",
+    "target_sha256": "ebb9243b4ff8c8e716ac29056cfa32798bac0fce75f992232d35f74509b3033c"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/41a.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/41a.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "85107622bfa85dc6d5d65c98d662c2fc2587b572852c3a5de185ffbced767937",
+    "target_sha256": "85107622bfa85dc6d5d65c98d662c2fc2587b572852c3a5de185ffbced767937"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/41b.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/41b.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "ff84c329700f35a9ae8720c6319112d231618ec9e64dab28822ee1ac93250d62",
+    "target_sha256": "ff84c329700f35a9ae8720c6319112d231618ec9e64dab28822ee1ac93250d62"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/42.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/42.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "cffdf06f66933b890df8fbb32d0d8d2767e8994096202a1412044d4ae7240228",
+    "target_sha256": "cffdf06f66933b890df8fbb32d0d8d2767e8994096202a1412044d4ae7240228"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/43.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/43.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "ce36dc9551eb7e68f74c8427befc305c6883f43bc380922635c1bc2f9c0d684d",
+    "target_sha256": "ce36dc9551eb7e68f74c8427befc305c6883f43bc380922635c1bc2f9c0d684d"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/44.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/44.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "a04aa1ef11e19297e1e644b91b9bfb04d0e5497eadd8bdd70106e96947840696",
+    "target_sha256": "a04aa1ef11e19297e1e644b91b9bfb04d0e5497eadd8bdd70106e96947840696"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/45.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/45.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "90ee8f838bdc5b340ab1856ca7e113e00e9087500b7536c20f92f254c1c610d8",
+    "target_sha256": "90ee8f838bdc5b340ab1856ca7e113e00e9087500b7536c20f92f254c1c610d8"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/46.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/46.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "7215eea28bdb5b3f1f2eaddacc12b597fe582601d63d11a3994d4b381e7e956f",
+    "target_sha256": "7215eea28bdb5b3f1f2eaddacc12b597fe582601d63d11a3994d4b381e7e956f"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/47.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/47.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "b70d91474035fa88ecee95d2762aaa88a921deaf77d072b7fc6a9571d07d3542",
+    "target_sha256": "b70d91474035fa88ecee95d2762aaa88a921deaf77d072b7fc6a9571d07d3542"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/50.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/50.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "ddd4222b51cdcd0f83543c10290418b9d22ee905171c193474bbadf50c247391",
+    "target_sha256": "ddd4222b51cdcd0f83543c10290418b9d22ee905171c193474bbadf50c247391"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/51.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/51.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "40dd35ecccd24f03c112b24b73ec341e926eebf4a30b7f2ecdd9953a942d8cc3",
+    "target_sha256": "40dd35ecccd24f03c112b24b73ec341e926eebf4a30b7f2ecdd9953a942d8cc3"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/52.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/52.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "cc6e745473486346fdda77b6f7f41b34411a1b27dc25035a81b39bd63f875475",
+    "target_sha256": "cc6e745473486346fdda77b6f7f41b34411a1b27dc25035a81b39bd63f875475"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/53.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/pool/53.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "78866a2262927b6a525a6d4594003cbf6fb46eb090de35284c12adc53b99bf32",
+    "target_sha256": "78866a2262927b6a525a6d4594003cbf6fb46eb090de35284c12adc53b99bf32"
+  },
+  {
+    "source": "plugin/esg-framepack/references/rules/calendar.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/rules/calendar.md",
+    "conversion": "실행 환경 경로 및 입력 표기 변환",
+    "source_sha256": "0a408adbf9c9c91ad38b7ebadff2e4f64549358a0253cbff017d9c99ed90c4a7",
+    "target_sha256": "0a408adbf9c9c91ad38b7ebadff2e4f64549358a0253cbff017d9c99ed90c4a7"
+  },
+  {
+    "source": "plugin/esg-framepack/references/rules/ecovadis.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/rules/ecovadis.md",
+    "conversion": "실행 환경 경로 및 입력 표기 변환",
+    "source_sha256": "58383c09fb409fdfa28aeb6fa7e18b3715e9daa19da7149d914591d5efd40dc5",
+    "target_sha256": "454dc98844cec3c8d70b1fd256d7579471df217463901a3f8cdb3753038d1ec7"
+  },
+  {
+    "source": "plugin/esg-framepack/references/rules/linkages.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/rules/linkages.md",
+    "conversion": "실행 환경 경로 및 입력 표기 변환",
+    "source_sha256": "8ef3b4cee9cb7b3a36a696af7b3ee889c0f87a9f845a4f98f0ac902fe536a551",
+    "target_sha256": "8ef3b4cee9cb7b3a36a696af7b3ee889c0f87a9f845a4f98f0ac902fe536a551"
+  },
+  {
+    "source": "plugin/esg-framepack/references/rules/verification.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/references/rules/verification.md",
+    "conversion": "실행 환경 경로 및 입력 표기 변환",
+    "source_sha256": "4dd0e04883b399ce74f52e84615c8e68d9ccbdbff1da063ae6a94b9d7ac7604e",
+    "target_sha256": "87719b36e5edbddd899c446b9cfa496df5738ae60cc134be3d627e499cf96917"
+  },
+  {
+    "source": "plugin/esg-framepack/methodology/ecovadis.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/methodology/ecovadis.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "3133e9e9737bcf4e97c5161faabd936f47fae8e81b848c085d2f279469e71a60",
+    "target_sha256": "3133e9e9737bcf4e97c5161faabd936f47fae8e81b848c085d2f279469e71a60"
+  },
+  {
+    "source": "plugin/esg-framepack/methodology/error-patterns.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/methodology/error-patterns.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "1873b672d624320fbda36c884a5ae470e82c4f1385e7c7c059d2610e2221db1d",
+    "target_sha256": "1873b672d624320fbda36c884a5ae470e82c4f1385e7c7c059d2610e2221db1d"
+  },
+  {
+    "source": "plugin/esg-framepack/methodology/evidence-schema.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/methodology/evidence-schema.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "59d1a7a6793f9fb6885d8215b862b57f46192cbebff34fcdd807d0b25a33cc10",
+    "target_sha256": "59d1a7a6793f9fb6885d8215b862b57f46192cbebff34fcdd807d0b25a33cc10"
+  },
+  {
+    "source": "plugin/esg-framepack/methodology/README.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-guide/methodology/README.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "45e1014ecaee02a46ec8f6bfdb68cfbb3b43dabc5bd7ab6cce53a330fd6f136f",
+    "target_sha256": "45e1014ecaee02a46ec8f6bfdb68cfbb3b43dabc5bd7ab6cce53a330fd6f136f"
+  },
+  {
+    "source": "plugin/esg-framepack/skills/check/SKILL.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/SKILL.md",
+    "conversion": "스킬 이름, 입력 표기, 로컬 리소스 경로 및 ChatGPT 실행 안내",
+    "source_sha256": "b961951117f2fdc8012a5b3ce94d7f9420c20cb19d2cbf74deb8a98386da37ab",
+    "target_sha256": "77f3b51bd6382d67958bb0a6ea9c48cb22b4ef90c378be6cef4bb7017a060889"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/01.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/01.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "7046d7b87817df520a0073161283ad776aa1c6cb691a9332d2f229190d6d15f9",
+    "target_sha256": "7046d7b87817df520a0073161283ad776aa1c6cb691a9332d2f229190d6d15f9"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/02.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/02.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "0e9c20fcc3fe74419f3753e6a43d5ed0c5dab069a4379ce5b8a15e94598ac5e2",
+    "target_sha256": "0e9c20fcc3fe74419f3753e6a43d5ed0c5dab069a4379ce5b8a15e94598ac5e2"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/03.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/03.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "3d0ac11c27f891f0079b24e7f0345339296f0e378cc5ddcd901446c9236b0d08",
+    "target_sha256": "3d0ac11c27f891f0079b24e7f0345339296f0e378cc5ddcd901446c9236b0d08"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/04.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/04.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "21ca2a168950d708597e9008927ada9890af0d30913db94e912523834c32c6f4",
+    "target_sha256": "21ca2a168950d708597e9008927ada9890af0d30913db94e912523834c32c6f4"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/05.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/05.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "42ff80b8d6eac76dda5b11353e5974ef153d7edebbfe625e2b6c4496e2fca468",
+    "target_sha256": "42ff80b8d6eac76dda5b11353e5974ef153d7edebbfe625e2b6c4496e2fca468"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/06.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/06.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "15ffe4dd194663c22bd9949465533aac3d35e831d21385df68f9e7148034d21b",
+    "target_sha256": "15ffe4dd194663c22bd9949465533aac3d35e831d21385df68f9e7148034d21b"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/07.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/07.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "f0327df36be65e4bae4d8d01c77717985a69b60f1c921d6d01fa28551b310738",
+    "target_sha256": "f0327df36be65e4bae4d8d01c77717985a69b60f1c921d6d01fa28551b310738"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/08.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/08.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "4342ba5e058c6c3681dbf456f6602f19ed3ccbcbb7fb72cd3be04eb182c364b9",
+    "target_sha256": "4342ba5e058c6c3681dbf456f6602f19ed3ccbcbb7fb72cd3be04eb182c364b9"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/09.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/09.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "4f63dcc153e6fdf8bcecb7147ca1c5fb2daec39710d5f83bc98b8baa460b883c",
+    "target_sha256": "4f63dcc153e6fdf8bcecb7147ca1c5fb2daec39710d5f83bc98b8baa460b883c"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/10.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/10.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "989fbe1f8ab0db4b1c8d745102c20bdd14eb067009caca72e358af685cec6dd2",
+    "target_sha256": "989fbe1f8ab0db4b1c8d745102c20bdd14eb067009caca72e358af685cec6dd2"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/11.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/11.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "d2d3b2b32075bbe0fff49de58f0a4d397333e9da51df474ce3755dc7328cafc0",
+    "target_sha256": "d2d3b2b32075bbe0fff49de58f0a4d397333e9da51df474ce3755dc7328cafc0"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/12.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/12.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "8ae7abf85f994e9c16a836869d76aeacd7aa6a89f0304636d1c19869a71cc959",
+    "target_sha256": "8ae7abf85f994e9c16a836869d76aeacd7aa6a89f0304636d1c19869a71cc959"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/13.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/13.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "4380068b55a332be83a77ad84f9b92fc986564e5821ff96312b0cadaa64cdbfc",
+    "target_sha256": "4380068b55a332be83a77ad84f9b92fc986564e5821ff96312b0cadaa64cdbfc"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/14.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/14.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "1734fde9fecda3f32bb509db919d01081935f718affb1439b10bac3998c7b277",
+    "target_sha256": "1734fde9fecda3f32bb509db919d01081935f718affb1439b10bac3998c7b277"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/15.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/15.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "4196e8568b701ce09bae29d09f9f8e6c99fe79d57640d3f4a0c21aa96d47d5b8",
+    "target_sha256": "4196e8568b701ce09bae29d09f9f8e6c99fe79d57640d3f4a0c21aa96d47d5b8"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/16.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/16.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "98aa2721ef7a9f7f496ff435d5c5c83fb6fef047302fc9974820d8c7f3981c73",
+    "target_sha256": "98aa2721ef7a9f7f496ff435d5c5c83fb6fef047302fc9974820d8c7f3981c73"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/17.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/17.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "c8ff5a9573184610710b9c2cfb7f48b993cdd48bd82f2c52c8d3a617b5a56b6b",
+    "target_sha256": "c8ff5a9573184610710b9c2cfb7f48b993cdd48bd82f2c52c8d3a617b5a56b6b"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/18.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/18.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "d0ad1f9574094e3a2c584b5fca6f31e617d9dfee2426a3dadc8be7cca297befc",
+    "target_sha256": "d0ad1f9574094e3a2c584b5fca6f31e617d9dfee2426a3dadc8be7cca297befc"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/19.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/19.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "8cb86135955f3826b26d706d947bf656705166c9d9edcddd6d7c74b686a80e79",
+    "target_sha256": "8cb86135955f3826b26d706d947bf656705166c9d9edcddd6d7c74b686a80e79"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/20.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/20.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "8403c44bfbe10b178630ce6ddbc30ad5775e76e825b6a317c12ef8383e54840a",
+    "target_sha256": "8403c44bfbe10b178630ce6ddbc30ad5775e76e825b6a317c12ef8383e54840a"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/21.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/21.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "47dbb23203ef8c219273cfeda200332d85d0257032536090208ba6440eebc772",
+    "target_sha256": "47dbb23203ef8c219273cfeda200332d85d0257032536090208ba6440eebc772"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/22.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/22.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "4585284e06f7639a1c4527768cb08204d68a86cf68788a35a229d39f449307c3",
+    "target_sha256": "4585284e06f7639a1c4527768cb08204d68a86cf68788a35a229d39f449307c3"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/23.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/core/23.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "ec74c69798f510710e08ea6e4c5714b514040226a0fec8c7d575b86f6ecf9c7d",
+    "target_sha256": "ec74c69798f510710e08ea6e4c5714b514040226a0fec8c7d575b86f6ecf9c7d"
+  },
+  {
+    "source": "plugin/esg-framepack/references/index.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/index.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "409f0dc653a84f992482518524e2f912e49205b36893fea5f3ae0f5386caf074",
+    "target_sha256": "409f0dc653a84f992482518524e2f912e49205b36893fea5f3ae0f5386caf074"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/03.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/03.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "44e0b4c0ea93cbe2173652449d363e7f975be0562d05a1e289459df8616898f5",
+    "target_sha256": "44e0b4c0ea93cbe2173652449d363e7f975be0562d05a1e289459df8616898f5"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/04.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/04.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "4363bf01a7a1e39f9f9525593bd72fe6a776160d1cb605553c3282820f786e44",
+    "target_sha256": "4363bf01a7a1e39f9f9525593bd72fe6a776160d1cb605553c3282820f786e44"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/05.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/05.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "b804132632da9e501a4989e44f5afb68e43a5ec0c3caacad273039b1ff81c563",
+    "target_sha256": "b804132632da9e501a4989e44f5afb68e43a5ec0c3caacad273039b1ff81c563"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/14.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/14.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "304edd9841fc3dfcb85cf70b0a43dcfa9432f98f14f96d0775c44c4de2d7a4d0",
+    "target_sha256": "304edd9841fc3dfcb85cf70b0a43dcfa9432f98f14f96d0775c44c4de2d7a4d0"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/15.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/15.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "10b2c802090c3e01dab1e25e1a7dd414343d46d3e4dc8effd5896363c8fd8e26",
+    "target_sha256": "10b2c802090c3e01dab1e25e1a7dd414343d46d3e4dc8effd5896363c8fd8e26"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/16.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/16.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "6d6f2d114b42f1ce68808f2cb5a73a96bd29e14d1219560c637ca0c05786b885",
+    "target_sha256": "6d6f2d114b42f1ce68808f2cb5a73a96bd29e14d1219560c637ca0c05786b885"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/17.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/17.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "9dc1c27e715913ea85992d8f01cf8f9bb7390d73cabc791cfd58ed7d775b950d",
+    "target_sha256": "9dc1c27e715913ea85992d8f01cf8f9bb7390d73cabc791cfd58ed7d775b950d"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/18.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/18.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "327cc1f5d29ed4d499fd28be6fad5af8d23612cdb3b748f8842529eae2ec26e4",
+    "target_sha256": "327cc1f5d29ed4d499fd28be6fad5af8d23612cdb3b748f8842529eae2ec26e4"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/19.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/19.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "f01113e232a2bbd906fa1ba1755d134b2eb1451d6715e092be25249efff26e60",
+    "target_sha256": "f01113e232a2bbd906fa1ba1755d134b2eb1451d6715e092be25249efff26e60"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/20.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/20.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "dde875d44e3892a7387a7cee4c175b9a591bd839dac6551356c56afea31d425f",
+    "target_sha256": "dde875d44e3892a7387a7cee4c175b9a591bd839dac6551356c56afea31d425f"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/21.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/21.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "9a1a0bc9307d38fac4585337f9a42d22cbcf782ee6a171682dcc52464d527905",
+    "target_sha256": "9a1a0bc9307d38fac4585337f9a42d22cbcf782ee6a171682dcc52464d527905"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/22.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/22.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "7875eaacdb8d11cc605034b434637682b11d076d348aee609bd1483fd8d48c1f",
+    "target_sha256": "7875eaacdb8d11cc605034b434637682b11d076d348aee609bd1483fd8d48c1f"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/23.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/23.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "69ed146f6f49630fb78c1376b93b6c1e748ef5adc23e7c2696cf3ae253b179e8",
+    "target_sha256": "69ed146f6f49630fb78c1376b93b6c1e748ef5adc23e7c2696cf3ae253b179e8"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/24.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/24.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "a5871908b2dd1fe0f0bcf0902d27a1be87c4a7880189fc29725c962d7a9648ff",
+    "target_sha256": "a5871908b2dd1fe0f0bcf0902d27a1be87c4a7880189fc29725c962d7a9648ff"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/25.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/25.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "2c9043155eb8747274ad3c680287ab9b548f6d143a75a4f6cf71133235587d64",
+    "target_sha256": "2c9043155eb8747274ad3c680287ab9b548f6d143a75a4f6cf71133235587d64"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/26.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/26.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "02ba14849fb1959df86f19ed8df8c5d5d4fc882bd7f9f8099115b0a0cf0dea02",
+    "target_sha256": "02ba14849fb1959df86f19ed8df8c5d5d4fc882bd7f9f8099115b0a0cf0dea02"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/28.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/28.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "14bd4cf89d7305b16001e5fb950329e0e34907819f89444f4e1fbe914a476ec1",
+    "target_sha256": "14bd4cf89d7305b16001e5fb950329e0e34907819f89444f4e1fbe914a476ec1"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/29.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/29.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "aa726e11fb12ffd2ab38cd28ffdf8765fb7afac8a45aa9e75361a4214cfacec0",
+    "target_sha256": "aa726e11fb12ffd2ab38cd28ffdf8765fb7afac8a45aa9e75361a4214cfacec0"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/30.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/30.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "fd54d7744ca7420ead0c39a5ff7ef75c0ab2d2504a199a90f3276e0f066cf800",
+    "target_sha256": "fd54d7744ca7420ead0c39a5ff7ef75c0ab2d2504a199a90f3276e0f066cf800"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/31.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/31.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "870397d981111952e7ae6ee051c5738b28f72b17e1e6c4fdb210f3a151c52fbc",
+    "target_sha256": "870397d981111952e7ae6ee051c5738b28f72b17e1e6c4fdb210f3a151c52fbc"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/32.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/32.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "f54c032e86a028ead92231adffc16228715fa0d557cee12104d24016bd7164da",
+    "target_sha256": "f54c032e86a028ead92231adffc16228715fa0d557cee12104d24016bd7164da"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/34.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/34.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "c084f10ea4ebfbf347ae6e0b5607c32fd1cc6da874a924e21abca241537b4abf",
+    "target_sha256": "c084f10ea4ebfbf347ae6e0b5607c32fd1cc6da874a924e21abca241537b4abf"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/35.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/35.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "ff2769aa10f516a2220481959db86dcdf629df9437d5f80172efbd9469492f83",
+    "target_sha256": "ff2769aa10f516a2220481959db86dcdf629df9437d5f80172efbd9469492f83"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/39.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/39.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "1594ebe2de641b9e0146c3c15374458614de67303e38dede4bab163ce00760e8",
+    "target_sha256": "1594ebe2de641b9e0146c3c15374458614de67303e38dede4bab163ce00760e8"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/40.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/40.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "ebb9243b4ff8c8e716ac29056cfa32798bac0fce75f992232d35f74509b3033c",
+    "target_sha256": "ebb9243b4ff8c8e716ac29056cfa32798bac0fce75f992232d35f74509b3033c"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/41a.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/41a.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "85107622bfa85dc6d5d65c98d662c2fc2587b572852c3a5de185ffbced767937",
+    "target_sha256": "85107622bfa85dc6d5d65c98d662c2fc2587b572852c3a5de185ffbced767937"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/41b.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/41b.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "ff84c329700f35a9ae8720c6319112d231618ec9e64dab28822ee1ac93250d62",
+    "target_sha256": "ff84c329700f35a9ae8720c6319112d231618ec9e64dab28822ee1ac93250d62"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/42.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/42.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "cffdf06f66933b890df8fbb32d0d8d2767e8994096202a1412044d4ae7240228",
+    "target_sha256": "cffdf06f66933b890df8fbb32d0d8d2767e8994096202a1412044d4ae7240228"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/43.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/43.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "ce36dc9551eb7e68f74c8427befc305c6883f43bc380922635c1bc2f9c0d684d",
+    "target_sha256": "ce36dc9551eb7e68f74c8427befc305c6883f43bc380922635c1bc2f9c0d684d"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/44.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/44.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "a04aa1ef11e19297e1e644b91b9bfb04d0e5497eadd8bdd70106e96947840696",
+    "target_sha256": "a04aa1ef11e19297e1e644b91b9bfb04d0e5497eadd8bdd70106e96947840696"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/45.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/45.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "90ee8f838bdc5b340ab1856ca7e113e00e9087500b7536c20f92f254c1c610d8",
+    "target_sha256": "90ee8f838bdc5b340ab1856ca7e113e00e9087500b7536c20f92f254c1c610d8"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/46.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/46.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "7215eea28bdb5b3f1f2eaddacc12b597fe582601d63d11a3994d4b381e7e956f",
+    "target_sha256": "7215eea28bdb5b3f1f2eaddacc12b597fe582601d63d11a3994d4b381e7e956f"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/47.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/47.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "b70d91474035fa88ecee95d2762aaa88a921deaf77d072b7fc6a9571d07d3542",
+    "target_sha256": "b70d91474035fa88ecee95d2762aaa88a921deaf77d072b7fc6a9571d07d3542"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/50.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/50.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "ddd4222b51cdcd0f83543c10290418b9d22ee905171c193474bbadf50c247391",
+    "target_sha256": "ddd4222b51cdcd0f83543c10290418b9d22ee905171c193474bbadf50c247391"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/51.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/51.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "40dd35ecccd24f03c112b24b73ec341e926eebf4a30b7f2ecdd9953a942d8cc3",
+    "target_sha256": "40dd35ecccd24f03c112b24b73ec341e926eebf4a30b7f2ecdd9953a942d8cc3"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/52.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/52.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "cc6e745473486346fdda77b6f7f41b34411a1b27dc25035a81b39bd63f875475",
+    "target_sha256": "cc6e745473486346fdda77b6f7f41b34411a1b27dc25035a81b39bd63f875475"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/53.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/pool/53.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "78866a2262927b6a525a6d4594003cbf6fb46eb090de35284c12adc53b99bf32",
+    "target_sha256": "78866a2262927b6a525a6d4594003cbf6fb46eb090de35284c12adc53b99bf32"
+  },
+  {
+    "source": "plugin/esg-framepack/references/rules/calendar.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/rules/calendar.md",
+    "conversion": "실행 환경 경로 및 입력 표기 변환",
+    "source_sha256": "0a408adbf9c9c91ad38b7ebadff2e4f64549358a0253cbff017d9c99ed90c4a7",
+    "target_sha256": "0a408adbf9c9c91ad38b7ebadff2e4f64549358a0253cbff017d9c99ed90c4a7"
+  },
+  {
+    "source": "plugin/esg-framepack/references/rules/ecovadis.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/rules/ecovadis.md",
+    "conversion": "실행 환경 경로 및 입력 표기 변환",
+    "source_sha256": "58383c09fb409fdfa28aeb6fa7e18b3715e9daa19da7149d914591d5efd40dc5",
+    "target_sha256": "454dc98844cec3c8d70b1fd256d7579471df217463901a3f8cdb3753038d1ec7"
+  },
+  {
+    "source": "plugin/esg-framepack/references/rules/linkages.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/rules/linkages.md",
+    "conversion": "실행 환경 경로 및 입력 표기 변환",
+    "source_sha256": "8ef3b4cee9cb7b3a36a696af7b3ee889c0f87a9f845a4f98f0ac902fe536a551",
+    "target_sha256": "8ef3b4cee9cb7b3a36a696af7b3ee889c0f87a9f845a4f98f0ac902fe536a551"
+  },
+  {
+    "source": "plugin/esg-framepack/references/rules/verification.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/references/rules/verification.md",
+    "conversion": "실행 환경 경로 및 입력 표기 변환",
+    "source_sha256": "4dd0e04883b399ce74f52e84615c8e68d9ccbdbff1da063ae6a94b9d7ac7604e",
+    "target_sha256": "87719b36e5edbddd899c446b9cfa496df5738ae60cc134be3d627e499cf96917"
+  },
+  {
+    "source": "plugin/esg-framepack/methodology/ecovadis.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/methodology/ecovadis.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "3133e9e9737bcf4e97c5161faabd936f47fae8e81b848c085d2f279469e71a60",
+    "target_sha256": "3133e9e9737bcf4e97c5161faabd936f47fae8e81b848c085d2f279469e71a60"
+  },
+  {
+    "source": "plugin/esg-framepack/methodology/error-patterns.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/methodology/error-patterns.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "1873b672d624320fbda36c884a5ae470e82c4f1385e7c7c059d2610e2221db1d",
+    "target_sha256": "1873b672d624320fbda36c884a5ae470e82c4f1385e7c7c059d2610e2221db1d"
+  },
+  {
+    "source": "plugin/esg-framepack/methodology/evidence-schema.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/methodology/evidence-schema.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "59d1a7a6793f9fb6885d8215b862b57f46192cbebff34fcdd807d0b25a33cc10",
+    "target_sha256": "59d1a7a6793f9fb6885d8215b862b57f46192cbebff34fcdd807d0b25a33cc10"
+  },
+  {
+    "source": "plugin/esg-framepack/methodology/README.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-check/methodology/README.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "45e1014ecaee02a46ec8f6bfdb68cfbb3b43dabc5bd7ab6cce53a330fd6f136f",
+    "target_sha256": "45e1014ecaee02a46ec8f6bfdb68cfbb3b43dabc5bd7ab6cce53a330fd6f136f"
+  },
+  {
+    "source": "plugin/esg-framepack/skills/crosscheck/SKILL.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/SKILL.md",
+    "conversion": "스킬 이름, 입력 표기, 로컬 리소스 경로 및 ChatGPT 실행 안내",
+    "source_sha256": "c18179bfb43d880f744bcf2102487f6bd8f9f538a8f690a97353db5f433307cf",
+    "target_sha256": "ef222a2089c29ac9a247d2f260cd78b25076a2ea9babb159461eb24b9453889b"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/01.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/01.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "7046d7b87817df520a0073161283ad776aa1c6cb691a9332d2f229190d6d15f9",
+    "target_sha256": "7046d7b87817df520a0073161283ad776aa1c6cb691a9332d2f229190d6d15f9"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/02.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/02.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "0e9c20fcc3fe74419f3753e6a43d5ed0c5dab069a4379ce5b8a15e94598ac5e2",
+    "target_sha256": "0e9c20fcc3fe74419f3753e6a43d5ed0c5dab069a4379ce5b8a15e94598ac5e2"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/03.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/03.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "3d0ac11c27f891f0079b24e7f0345339296f0e378cc5ddcd901446c9236b0d08",
+    "target_sha256": "3d0ac11c27f891f0079b24e7f0345339296f0e378cc5ddcd901446c9236b0d08"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/04.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/04.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "21ca2a168950d708597e9008927ada9890af0d30913db94e912523834c32c6f4",
+    "target_sha256": "21ca2a168950d708597e9008927ada9890af0d30913db94e912523834c32c6f4"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/05.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/05.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "42ff80b8d6eac76dda5b11353e5974ef153d7edebbfe625e2b6c4496e2fca468",
+    "target_sha256": "42ff80b8d6eac76dda5b11353e5974ef153d7edebbfe625e2b6c4496e2fca468"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/06.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/06.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "15ffe4dd194663c22bd9949465533aac3d35e831d21385df68f9e7148034d21b",
+    "target_sha256": "15ffe4dd194663c22bd9949465533aac3d35e831d21385df68f9e7148034d21b"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/07.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/07.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "f0327df36be65e4bae4d8d01c77717985a69b60f1c921d6d01fa28551b310738",
+    "target_sha256": "f0327df36be65e4bae4d8d01c77717985a69b60f1c921d6d01fa28551b310738"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/08.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/08.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "4342ba5e058c6c3681dbf456f6602f19ed3ccbcbb7fb72cd3be04eb182c364b9",
+    "target_sha256": "4342ba5e058c6c3681dbf456f6602f19ed3ccbcbb7fb72cd3be04eb182c364b9"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/09.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/09.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "4f63dcc153e6fdf8bcecb7147ca1c5fb2daec39710d5f83bc98b8baa460b883c",
+    "target_sha256": "4f63dcc153e6fdf8bcecb7147ca1c5fb2daec39710d5f83bc98b8baa460b883c"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/10.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/10.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "989fbe1f8ab0db4b1c8d745102c20bdd14eb067009caca72e358af685cec6dd2",
+    "target_sha256": "989fbe1f8ab0db4b1c8d745102c20bdd14eb067009caca72e358af685cec6dd2"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/11.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/11.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "d2d3b2b32075bbe0fff49de58f0a4d397333e9da51df474ce3755dc7328cafc0",
+    "target_sha256": "d2d3b2b32075bbe0fff49de58f0a4d397333e9da51df474ce3755dc7328cafc0"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/12.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/12.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "8ae7abf85f994e9c16a836869d76aeacd7aa6a89f0304636d1c19869a71cc959",
+    "target_sha256": "8ae7abf85f994e9c16a836869d76aeacd7aa6a89f0304636d1c19869a71cc959"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/13.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/13.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "4380068b55a332be83a77ad84f9b92fc986564e5821ff96312b0cadaa64cdbfc",
+    "target_sha256": "4380068b55a332be83a77ad84f9b92fc986564e5821ff96312b0cadaa64cdbfc"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/14.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/14.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "1734fde9fecda3f32bb509db919d01081935f718affb1439b10bac3998c7b277",
+    "target_sha256": "1734fde9fecda3f32bb509db919d01081935f718affb1439b10bac3998c7b277"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/15.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/15.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "4196e8568b701ce09bae29d09f9f8e6c99fe79d57640d3f4a0c21aa96d47d5b8",
+    "target_sha256": "4196e8568b701ce09bae29d09f9f8e6c99fe79d57640d3f4a0c21aa96d47d5b8"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/16.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/16.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "98aa2721ef7a9f7f496ff435d5c5c83fb6fef047302fc9974820d8c7f3981c73",
+    "target_sha256": "98aa2721ef7a9f7f496ff435d5c5c83fb6fef047302fc9974820d8c7f3981c73"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/17.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/17.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "c8ff5a9573184610710b9c2cfb7f48b993cdd48bd82f2c52c8d3a617b5a56b6b",
+    "target_sha256": "c8ff5a9573184610710b9c2cfb7f48b993cdd48bd82f2c52c8d3a617b5a56b6b"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/18.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/18.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "d0ad1f9574094e3a2c584b5fca6f31e617d9dfee2426a3dadc8be7cca297befc",
+    "target_sha256": "d0ad1f9574094e3a2c584b5fca6f31e617d9dfee2426a3dadc8be7cca297befc"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/19.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/19.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "8cb86135955f3826b26d706d947bf656705166c9d9edcddd6d7c74b686a80e79",
+    "target_sha256": "8cb86135955f3826b26d706d947bf656705166c9d9edcddd6d7c74b686a80e79"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/20.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/20.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "8403c44bfbe10b178630ce6ddbc30ad5775e76e825b6a317c12ef8383e54840a",
+    "target_sha256": "8403c44bfbe10b178630ce6ddbc30ad5775e76e825b6a317c12ef8383e54840a"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/21.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/21.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "47dbb23203ef8c219273cfeda200332d85d0257032536090208ba6440eebc772",
+    "target_sha256": "47dbb23203ef8c219273cfeda200332d85d0257032536090208ba6440eebc772"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/22.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/22.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "4585284e06f7639a1c4527768cb08204d68a86cf68788a35a229d39f449307c3",
+    "target_sha256": "4585284e06f7639a1c4527768cb08204d68a86cf68788a35a229d39f449307c3"
+  },
+  {
+    "source": "plugin/esg-framepack/references/core/23.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/core/23.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "ec74c69798f510710e08ea6e4c5714b514040226a0fec8c7d575b86f6ecf9c7d",
+    "target_sha256": "ec74c69798f510710e08ea6e4c5714b514040226a0fec8c7d575b86f6ecf9c7d"
+  },
+  {
+    "source": "plugin/esg-framepack/references/index.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/index.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "409f0dc653a84f992482518524e2f912e49205b36893fea5f3ae0f5386caf074",
+    "target_sha256": "409f0dc653a84f992482518524e2f912e49205b36893fea5f3ae0f5386caf074"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/03.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/03.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "44e0b4c0ea93cbe2173652449d363e7f975be0562d05a1e289459df8616898f5",
+    "target_sha256": "44e0b4c0ea93cbe2173652449d363e7f975be0562d05a1e289459df8616898f5"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/04.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/04.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "4363bf01a7a1e39f9f9525593bd72fe6a776160d1cb605553c3282820f786e44",
+    "target_sha256": "4363bf01a7a1e39f9f9525593bd72fe6a776160d1cb605553c3282820f786e44"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/05.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/05.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "b804132632da9e501a4989e44f5afb68e43a5ec0c3caacad273039b1ff81c563",
+    "target_sha256": "b804132632da9e501a4989e44f5afb68e43a5ec0c3caacad273039b1ff81c563"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/14.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/14.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "304edd9841fc3dfcb85cf70b0a43dcfa9432f98f14f96d0775c44c4de2d7a4d0",
+    "target_sha256": "304edd9841fc3dfcb85cf70b0a43dcfa9432f98f14f96d0775c44c4de2d7a4d0"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/15.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/15.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "10b2c802090c3e01dab1e25e1a7dd414343d46d3e4dc8effd5896363c8fd8e26",
+    "target_sha256": "10b2c802090c3e01dab1e25e1a7dd414343d46d3e4dc8effd5896363c8fd8e26"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/16.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/16.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "6d6f2d114b42f1ce68808f2cb5a73a96bd29e14d1219560c637ca0c05786b885",
+    "target_sha256": "6d6f2d114b42f1ce68808f2cb5a73a96bd29e14d1219560c637ca0c05786b885"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/17.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/17.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "9dc1c27e715913ea85992d8f01cf8f9bb7390d73cabc791cfd58ed7d775b950d",
+    "target_sha256": "9dc1c27e715913ea85992d8f01cf8f9bb7390d73cabc791cfd58ed7d775b950d"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/18.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/18.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "327cc1f5d29ed4d499fd28be6fad5af8d23612cdb3b748f8842529eae2ec26e4",
+    "target_sha256": "327cc1f5d29ed4d499fd28be6fad5af8d23612cdb3b748f8842529eae2ec26e4"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/19.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/19.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "f01113e232a2bbd906fa1ba1755d134b2eb1451d6715e092be25249efff26e60",
+    "target_sha256": "f01113e232a2bbd906fa1ba1755d134b2eb1451d6715e092be25249efff26e60"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/20.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/20.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "dde875d44e3892a7387a7cee4c175b9a591bd839dac6551356c56afea31d425f",
+    "target_sha256": "dde875d44e3892a7387a7cee4c175b9a591bd839dac6551356c56afea31d425f"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/21.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/21.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "9a1a0bc9307d38fac4585337f9a42d22cbcf782ee6a171682dcc52464d527905",
+    "target_sha256": "9a1a0bc9307d38fac4585337f9a42d22cbcf782ee6a171682dcc52464d527905"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/22.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/22.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "7875eaacdb8d11cc605034b434637682b11d076d348aee609bd1483fd8d48c1f",
+    "target_sha256": "7875eaacdb8d11cc605034b434637682b11d076d348aee609bd1483fd8d48c1f"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/23.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/23.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "69ed146f6f49630fb78c1376b93b6c1e748ef5adc23e7c2696cf3ae253b179e8",
+    "target_sha256": "69ed146f6f49630fb78c1376b93b6c1e748ef5adc23e7c2696cf3ae253b179e8"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/24.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/24.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "a5871908b2dd1fe0f0bcf0902d27a1be87c4a7880189fc29725c962d7a9648ff",
+    "target_sha256": "a5871908b2dd1fe0f0bcf0902d27a1be87c4a7880189fc29725c962d7a9648ff"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/25.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/25.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "2c9043155eb8747274ad3c680287ab9b548f6d143a75a4f6cf71133235587d64",
+    "target_sha256": "2c9043155eb8747274ad3c680287ab9b548f6d143a75a4f6cf71133235587d64"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/26.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/26.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "02ba14849fb1959df86f19ed8df8c5d5d4fc882bd7f9f8099115b0a0cf0dea02",
+    "target_sha256": "02ba14849fb1959df86f19ed8df8c5d5d4fc882bd7f9f8099115b0a0cf0dea02"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/28.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/28.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "14bd4cf89d7305b16001e5fb950329e0e34907819f89444f4e1fbe914a476ec1",
+    "target_sha256": "14bd4cf89d7305b16001e5fb950329e0e34907819f89444f4e1fbe914a476ec1"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/29.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/29.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "aa726e11fb12ffd2ab38cd28ffdf8765fb7afac8a45aa9e75361a4214cfacec0",
+    "target_sha256": "aa726e11fb12ffd2ab38cd28ffdf8765fb7afac8a45aa9e75361a4214cfacec0"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/30.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/30.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "fd54d7744ca7420ead0c39a5ff7ef75c0ab2d2504a199a90f3276e0f066cf800",
+    "target_sha256": "fd54d7744ca7420ead0c39a5ff7ef75c0ab2d2504a199a90f3276e0f066cf800"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/31.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/31.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "870397d981111952e7ae6ee051c5738b28f72b17e1e6c4fdb210f3a151c52fbc",
+    "target_sha256": "870397d981111952e7ae6ee051c5738b28f72b17e1e6c4fdb210f3a151c52fbc"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/32.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/32.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "f54c032e86a028ead92231adffc16228715fa0d557cee12104d24016bd7164da",
+    "target_sha256": "f54c032e86a028ead92231adffc16228715fa0d557cee12104d24016bd7164da"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/34.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/34.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "c084f10ea4ebfbf347ae6e0b5607c32fd1cc6da874a924e21abca241537b4abf",
+    "target_sha256": "c084f10ea4ebfbf347ae6e0b5607c32fd1cc6da874a924e21abca241537b4abf"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/35.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/35.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "ff2769aa10f516a2220481959db86dcdf629df9437d5f80172efbd9469492f83",
+    "target_sha256": "ff2769aa10f516a2220481959db86dcdf629df9437d5f80172efbd9469492f83"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/39.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/39.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "1594ebe2de641b9e0146c3c15374458614de67303e38dede4bab163ce00760e8",
+    "target_sha256": "1594ebe2de641b9e0146c3c15374458614de67303e38dede4bab163ce00760e8"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/40.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/40.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "ebb9243b4ff8c8e716ac29056cfa32798bac0fce75f992232d35f74509b3033c",
+    "target_sha256": "ebb9243b4ff8c8e716ac29056cfa32798bac0fce75f992232d35f74509b3033c"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/41a.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/41a.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "85107622bfa85dc6d5d65c98d662c2fc2587b572852c3a5de185ffbced767937",
+    "target_sha256": "85107622bfa85dc6d5d65c98d662c2fc2587b572852c3a5de185ffbced767937"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/41b.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/41b.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "ff84c329700f35a9ae8720c6319112d231618ec9e64dab28822ee1ac93250d62",
+    "target_sha256": "ff84c329700f35a9ae8720c6319112d231618ec9e64dab28822ee1ac93250d62"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/42.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/42.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "cffdf06f66933b890df8fbb32d0d8d2767e8994096202a1412044d4ae7240228",
+    "target_sha256": "cffdf06f66933b890df8fbb32d0d8d2767e8994096202a1412044d4ae7240228"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/43.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/43.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "ce36dc9551eb7e68f74c8427befc305c6883f43bc380922635c1bc2f9c0d684d",
+    "target_sha256": "ce36dc9551eb7e68f74c8427befc305c6883f43bc380922635c1bc2f9c0d684d"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/44.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/44.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "a04aa1ef11e19297e1e644b91b9bfb04d0e5497eadd8bdd70106e96947840696",
+    "target_sha256": "a04aa1ef11e19297e1e644b91b9bfb04d0e5497eadd8bdd70106e96947840696"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/45.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/45.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "90ee8f838bdc5b340ab1856ca7e113e00e9087500b7536c20f92f254c1c610d8",
+    "target_sha256": "90ee8f838bdc5b340ab1856ca7e113e00e9087500b7536c20f92f254c1c610d8"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/46.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/46.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "7215eea28bdb5b3f1f2eaddacc12b597fe582601d63d11a3994d4b381e7e956f",
+    "target_sha256": "7215eea28bdb5b3f1f2eaddacc12b597fe582601d63d11a3994d4b381e7e956f"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/47.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/47.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "b70d91474035fa88ecee95d2762aaa88a921deaf77d072b7fc6a9571d07d3542",
+    "target_sha256": "b70d91474035fa88ecee95d2762aaa88a921deaf77d072b7fc6a9571d07d3542"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/50.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/50.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "ddd4222b51cdcd0f83543c10290418b9d22ee905171c193474bbadf50c247391",
+    "target_sha256": "ddd4222b51cdcd0f83543c10290418b9d22ee905171c193474bbadf50c247391"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/51.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/51.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "40dd35ecccd24f03c112b24b73ec341e926eebf4a30b7f2ecdd9953a942d8cc3",
+    "target_sha256": "40dd35ecccd24f03c112b24b73ec341e926eebf4a30b7f2ecdd9953a942d8cc3"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/52.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/52.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "cc6e745473486346fdda77b6f7f41b34411a1b27dc25035a81b39bd63f875475",
+    "target_sha256": "cc6e745473486346fdda77b6f7f41b34411a1b27dc25035a81b39bd63f875475"
+  },
+  {
+    "source": "plugin/esg-framepack/references/pool/53.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/pool/53.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "78866a2262927b6a525a6d4594003cbf6fb46eb090de35284c12adc53b99bf32",
+    "target_sha256": "78866a2262927b6a525a6d4594003cbf6fb46eb090de35284c12adc53b99bf32"
+  },
+  {
+    "source": "plugin/esg-framepack/references/rules/calendar.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/rules/calendar.md",
+    "conversion": "실행 환경 경로 및 입력 표기 변환",
+    "source_sha256": "0a408adbf9c9c91ad38b7ebadff2e4f64549358a0253cbff017d9c99ed90c4a7",
+    "target_sha256": "0a408adbf9c9c91ad38b7ebadff2e4f64549358a0253cbff017d9c99ed90c4a7"
+  },
+  {
+    "source": "plugin/esg-framepack/references/rules/ecovadis.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/rules/ecovadis.md",
+    "conversion": "실행 환경 경로 및 입력 표기 변환",
+    "source_sha256": "58383c09fb409fdfa28aeb6fa7e18b3715e9daa19da7149d914591d5efd40dc5",
+    "target_sha256": "454dc98844cec3c8d70b1fd256d7579471df217463901a3f8cdb3753038d1ec7"
+  },
+  {
+    "source": "plugin/esg-framepack/references/rules/linkages.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/rules/linkages.md",
+    "conversion": "실행 환경 경로 및 입력 표기 변환",
+    "source_sha256": "8ef3b4cee9cb7b3a36a696af7b3ee889c0f87a9f845a4f98f0ac902fe536a551",
+    "target_sha256": "8ef3b4cee9cb7b3a36a696af7b3ee889c0f87a9f845a4f98f0ac902fe536a551"
+  },
+  {
+    "source": "plugin/esg-framepack/references/rules/verification.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/references/rules/verification.md",
+    "conversion": "실행 환경 경로 및 입력 표기 변환",
+    "source_sha256": "4dd0e04883b399ce74f52e84615c8e68d9ccbdbff1da063ae6a94b9d7ac7604e",
+    "target_sha256": "87719b36e5edbddd899c446b9cfa496df5738ae60cc134be3d627e499cf96917"
+  },
+  {
+    "source": "plugin/esg-framepack/methodology/ecovadis.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/methodology/ecovadis.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "3133e9e9737bcf4e97c5161faabd936f47fae8e81b848c085d2f279469e71a60",
+    "target_sha256": "3133e9e9737bcf4e97c5161faabd936f47fae8e81b848c085d2f279469e71a60"
+  },
+  {
+    "source": "plugin/esg-framepack/methodology/error-patterns.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/methodology/error-patterns.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "1873b672d624320fbda36c884a5ae470e82c4f1385e7c7c059d2610e2221db1d",
+    "target_sha256": "1873b672d624320fbda36c884a5ae470e82c4f1385e7c7c059d2610e2221db1d"
+  },
+  {
+    "source": "plugin/esg-framepack/methodology/evidence-schema.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/methodology/evidence-schema.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "59d1a7a6793f9fb6885d8215b862b57f46192cbebff34fcdd807d0b25a33cc10",
+    "target_sha256": "59d1a7a6793f9fb6885d8215b862b57f46192cbebff34fcdd807d0b25a33cc10"
+  },
+  {
+    "source": "plugin/esg-framepack/methodology/README.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-crosscheck/methodology/README.md",
+    "conversion": "바이트 동일 복제",
+    "source_sha256": "45e1014ecaee02a46ec8f6bfdb68cfbb3b43dabc5bd7ab6cce53a330fd6f136f",
+    "target_sha256": "45e1014ecaee02a46ec8f6bfdb68cfbb3b43dabc5bd7ab6cce53a330fd6f136f"
+  },
+  {
+    "source": "plugin/esg-framepack/skills/proofread/SKILL.md",
+    "target": "plugins/esg-framepack-chatgpt/skills/esg-proofread/SKILL.md",
+    "conversion": "스킬 이름, 입력 표기, 로컬 리소스 경로 및 ChatGPT 실행 안내",
+    "source_sha256": "da926262b60920a92e6afd6f3d9231994105b256433a2286049cd97c461b8b3b",
+    "target_sha256": "39ecb65c4b9b9c4c6bd29a2732879aaa9a0dd4a7cfd432af5e4695bb3dd93e30"
+  }
+]
